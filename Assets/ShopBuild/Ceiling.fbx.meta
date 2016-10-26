@@ -1,0 +1,2333 @@
+fileFormatVersion: 2
+guid: 57cbf9ebef6b1cd44a2c42b0ec177b2c
+timeCreated: 1466189005
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CeilingGroup
+    100004: Ductwork
+    100006: Lights
+    100008: Lights1
+    100010: Lights_group1
+    100012: Lights_group1 1
+    100014: Lights_group1 2
+    100016: Lights_group1 3
+    100018: Lights_group1 4
+    100020: Lights_group1 5
+    100022: Lights_group1 6
+    100024: Lights_group1 7
+    100026: Lights_group10
+    100028: Lights_group11
+    100030: Lights_group12
+    100032: Lights_group14
+    100034: Lights_group15
+    100036: Lights_group3
+    100038: Lights_group3 1
+    100040: Lights_group3 2
+    100042: Lights_group3 3
+    100044: Lights_group3 4
+    100046: Lights_group3 5
+    100048: Lights_group3 6
+    100050: Lights_group3 7
+    100052: Lights_group4
+    100054: Lights_group4 1
+    100056: Lights_group4 2
+    100058: Lights_group4 3
+    100060: Lights_group4 4
+    100062: Lights_group4 5
+    100064: Lights_group4 6
+    100066: Lights_group4 7
+    100068: Lights_group5
+    100070: Lights_group5 1
+    100072: Lights_group5 2
+    100074: Lights_group5 3
+    100076: Lights_group5 4
+    100078: Lights_group5 5
+    100080: Lights_group5 6
+    100082: Lights_group5 7
+    100084: Lights_group6
+    100086: Lights_group6 1
+    100088: Lights_group6 2
+    100090: Lights_group6 3
+    100092: Lights_group6 4
+    100094: Lights_group6 5
+    100096: Lights_group6 6
+    100098: Lights_group6 7
+    100100: Lights_group7
+    100102: Lights_group8
+    100104: Lights_group9
+    100106: Lights_LightCasing1
+    100108: Lights_LightCasing1 1
+    100110: Lights_LightCasing1 2
+    100112: Lights_LightCasing1 3
+    100114: Lights_LightCasing1 4
+    100116: Lights_LightCasing1 5
+    100118: Lights_LightCasing1 6
+    100120: Lights_LightCasing1 7
+    100122: Lights_pCube1
+    100124: Lights_pCube1 1
+    100126: Lights_pCube1 2
+    100128: Lights_pCube1 3
+    100130: Lights_pCube1 4
+    100132: Lights_pCube1 5
+    100134: Lights_pCube1 6
+    100136: Lights_pCube1 7
+    100138: Lights_pCube10
+    100140: Lights_pCube10 1
+    100142: Lights_pCube10 2
+    100144: Lights_pCube10 3
+    100146: Lights_pCube10 4
+    100148: Lights_pCube10 5
+    100150: Lights_pCube10 6
+    100152: Lights_pCube10 7
+    100154: Lights_pCube11
+    100156: Lights_pCube11 1
+    100158: Lights_pCube11 2
+    100160: Lights_pCube11 3
+    100162: Lights_pCube11 4
+    100164: Lights_pCube11 5
+    100166: Lights_pCube11 6
+    100168: Lights_pCube11 7
+    100170: Lights_pCube12
+    100172: Lights_pCube12 1
+    100174: Lights_pCube12 2
+    100176: Lights_pCube12 3
+    100178: Lights_pCube12 4
+    100180: Lights_pCube12 5
+    100182: Lights_pCube12 6
+    100184: Lights_pCube12 7
+    100186: Lights_pCube13
+    100188: Lights_pCube13 1
+    100190: Lights_pCube13 2
+    100192: Lights_pCube13 3
+    100194: Lights_pCube13 4
+    100196: Lights_pCube13 5
+    100198: Lights_pCube13 6
+    100200: Lights_pCube13 7
+    100202: Lights_pCube14
+    100204: Lights_pCube14 1
+    100206: Lights_pCube14 2
+    100208: Lights_pCube14 3
+    100210: Lights_pCube14 4
+    100212: Lights_pCube14 5
+    100214: Lights_pCube14 6
+    100216: Lights_pCube14 7
+    100218: Lights_pCube15
+    100220: Lights_pCube15 1
+    100222: Lights_pCube15 2
+    100224: Lights_pCube15 3
+    100226: Lights_pCube15 4
+    100228: Lights_pCube15 5
+    100230: Lights_pCube15 6
+    100232: Lights_pCube15 7
+    100234: Lights_pCube16
+    100236: Lights_pCube16 1
+    100238: Lights_pCube16 2
+    100240: Lights_pCube16 3
+    100242: Lights_pCube16 4
+    100244: Lights_pCube16 5
+    100246: Lights_pCube16 6
+    100248: Lights_pCube16 7
+    100250: Lights_pCube17
+    100252: Lights_pCube17 1
+    100254: Lights_pCube17 2
+    100256: Lights_pCube17 3
+    100258: Lights_pCube17 4
+    100260: Lights_pCube17 5
+    100262: Lights_pCube17 6
+    100264: Lights_pCube17 7
+    100266: Lights_pCube18
+    100268: Lights_pCube18 1
+    100270: Lights_pCube18 2
+    100272: Lights_pCube18 3
+    100274: Lights_pCube18 4
+    100276: Lights_pCube18 5
+    100278: Lights_pCube18 6
+    100280: Lights_pCube18 7
+    100282: Lights_pCube19
+    100284: Lights_pCube19 1
+    100286: Lights_pCube19 2
+    100288: Lights_pCube19 3
+    100290: Lights_pCube19 4
+    100292: Lights_pCube19 5
+    100294: Lights_pCube19 6
+    100296: Lights_pCube19 7
+    100298: Lights_pCube2
+    100300: Lights_pCube2 1
+    100302: Lights_pCube2 2
+    100304: Lights_pCube2 3
+    100306: Lights_pCube2 4
+    100308: Lights_pCube2 5
+    100310: Lights_pCube2 6
+    100312: Lights_pCube2 7
+    100314: Lights_pCube20
+    100316: Lights_pCube20 1
+    100318: Lights_pCube20 2
+    100320: Lights_pCube20 3
+    100322: Lights_pCube20 4
+    100324: Lights_pCube20 5
+    100326: Lights_pCube20 6
+    100328: Lights_pCube20 7
+    100330: Lights_pCube21
+    100332: Lights_pCube21 1
+    100334: Lights_pCube21 2
+    100336: Lights_pCube21 3
+    100338: Lights_pCube21 4
+    100340: Lights_pCube21 5
+    100342: Lights_pCube21 6
+    100344: Lights_pCube21 7
+    100346: Lights_pCube22
+    100348: Lights_pCube22 1
+    100350: Lights_pCube22 2
+    100352: Lights_pCube22 3
+    100354: Lights_pCube22 4
+    100356: Lights_pCube22 5
+    100358: Lights_pCube22 6
+    100360: Lights_pCube22 7
+    100362: Lights_pCube23
+    100364: Lights_pCube23 1
+    100366: Lights_pCube23 2
+    100368: Lights_pCube23 3
+    100370: Lights_pCube23 4
+    100372: Lights_pCube23 5
+    100374: Lights_pCube23 6
+    100376: Lights_pCube23 7
+    100378: Lights_pCube24
+    100380: Lights_pCube24 1
+    100382: Lights_pCube24 2
+    100384: Lights_pCube24 3
+    100386: Lights_pCube24 4
+    100388: Lights_pCube24 5
+    100390: Lights_pCube24 6
+    100392: Lights_pCube24 7
+    100394: Lights_pCube25
+    100396: Lights_pCube25 1
+    100398: Lights_pCube25 2
+    100400: Lights_pCube25 3
+    100402: Lights_pCube25 4
+    100404: Lights_pCube25 5
+    100406: Lights_pCube25 6
+    100408: Lights_pCube25 7
+    100410: Lights_pCube26
+    100412: Lights_pCube26 1
+    100414: Lights_pCube26 2
+    100416: Lights_pCube26 3
+    100418: Lights_pCube26 4
+    100420: Lights_pCube26 5
+    100422: Lights_pCube26 6
+    100424: Lights_pCube26 7
+    100426: Lights_pCube27
+    100428: Lights_pCube27 1
+    100430: Lights_pCube27 2
+    100432: Lights_pCube27 3
+    100434: Lights_pCube27 4
+    100436: Lights_pCube27 5
+    100438: Lights_pCube27 6
+    100440: Lights_pCube27 7
+    100442: Lights_pCube28
+    100444: Lights_pCube28 1
+    100446: Lights_pCube28 2
+    100448: Lights_pCube28 3
+    100450: Lights_pCube28 4
+    100452: Lights_pCube28 5
+    100454: Lights_pCube28 6
+    100456: Lights_pCube28 7
+    100458: Lights_pCube29
+    100460: Lights_pCube29 1
+    100462: Lights_pCube29 2
+    100464: Lights_pCube29 3
+    100466: Lights_pCube29 4
+    100468: Lights_pCube29 5
+    100470: Lights_pCube29 6
+    100472: Lights_pCube29 7
+    100474: Lights_pCube3
+    100476: Lights_pCube3 1
+    100478: Lights_pCube3 2
+    100480: Lights_pCube3 3
+    100482: Lights_pCube3 4
+    100484: Lights_pCube3 5
+    100486: Lights_pCube3 6
+    100488: Lights_pCube3 7
+    100490: Lights_pCube30
+    100492: Lights_pCube30 1
+    100494: Lights_pCube30 2
+    100496: Lights_pCube30 3
+    100498: Lights_pCube30 4
+    100500: Lights_pCube30 5
+    100502: Lights_pCube30 6
+    100504: Lights_pCube30 7
+    100506: Lights_pCube31
+    100508: Lights_pCube31 1
+    100510: Lights_pCube31 2
+    100512: Lights_pCube31 3
+    100514: Lights_pCube31 4
+    100516: Lights_pCube31 5
+    100518: Lights_pCube31 6
+    100520: Lights_pCube31 7
+    100522: Lights_pCube32
+    100524: Lights_pCube32 1
+    100526: Lights_pCube32 2
+    100528: Lights_pCube32 3
+    100530: Lights_pCube32 4
+    100532: Lights_pCube32 5
+    100534: Lights_pCube32 6
+    100536: Lights_pCube32 7
+    100538: Lights_pCube33
+    100540: Lights_pCube33 1
+    100542: Lights_pCube33 2
+    100544: Lights_pCube33 3
+    100546: Lights_pCube33 4
+    100548: Lights_pCube33 5
+    100550: Lights_pCube33 6
+    100552: Lights_pCube33 7
+    100554: Lights_pCube34
+    100556: Lights_pCube34 1
+    100558: Lights_pCube34 2
+    100560: Lights_pCube34 3
+    100562: Lights_pCube34 4
+    100564: Lights_pCube34 5
+    100566: Lights_pCube34 6
+    100568: Lights_pCube34 7
+    100570: Lights_pCube35
+    100572: Lights_pCube35 1
+    100574: Lights_pCube35 2
+    100576: Lights_pCube35 3
+    100578: Lights_pCube35 4
+    100580: Lights_pCube35 5
+    100582: Lights_pCube35 6
+    100584: Lights_pCube35 7
+    100586: Lights_pCube36
+    100588: Lights_pCube36 1
+    100590: Lights_pCube36 2
+    100592: Lights_pCube36 3
+    100594: Lights_pCube36 4
+    100596: Lights_pCube36 5
+    100598: Lights_pCube36 6
+    100600: Lights_pCube36 7
+    100602: Lights_pCube37
+    100604: Lights_pCube37 1
+    100606: Lights_pCube37 2
+    100608: Lights_pCube37 3
+    100610: Lights_pCube37 4
+    100612: Lights_pCube37 5
+    100614: Lights_pCube37 6
+    100616: Lights_pCube37 7
+    100618: Lights_pCube38
+    100620: Lights_pCube38 1
+    100622: Lights_pCube38 2
+    100624: Lights_pCube38 3
+    100626: Lights_pCube38 4
+    100628: Lights_pCube38 5
+    100630: Lights_pCube38 6
+    100632: Lights_pCube38 7
+    100634: Lights_pCube39
+    100636: Lights_pCube39 1
+    100638: Lights_pCube39 2
+    100640: Lights_pCube39 3
+    100642: Lights_pCube39 4
+    100644: Lights_pCube39 5
+    100646: Lights_pCube39 6
+    100648: Lights_pCube39 7
+    100650: Lights_pCube4
+    100652: Lights_pCube4 1
+    100654: Lights_pCube4 2
+    100656: Lights_pCube4 3
+    100658: Lights_pCube4 4
+    100660: Lights_pCube4 5
+    100662: Lights_pCube4 6
+    100664: Lights_pCube4 7
+    100666: Lights_pCube40
+    100668: Lights_pCube40 1
+    100670: Lights_pCube40 2
+    100672: Lights_pCube40 3
+    100674: Lights_pCube40 4
+    100676: Lights_pCube40 5
+    100678: Lights_pCube40 6
+    100680: Lights_pCube40 7
+    100682: Lights_pCube41
+    100684: Lights_pCube41 1
+    100686: Lights_pCube41 2
+    100688: Lights_pCube41 3
+    100690: Lights_pCube41 4
+    100692: Lights_pCube41 5
+    100694: Lights_pCube41 6
+    100696: Lights_pCube41 7
+    100698: Lights_pCube42
+    100700: Lights_pCube42 1
+    100702: Lights_pCube42 2
+    100704: Lights_pCube42 3
+    100706: Lights_pCube42 4
+    100708: Lights_pCube42 5
+    100710: Lights_pCube42 6
+    100712: Lights_pCube42 7
+    100714: Lights_pCube5
+    100716: Lights_pCube5 1
+    100718: Lights_pCube5 2
+    100720: Lights_pCube5 3
+    100722: Lights_pCube5 4
+    100724: Lights_pCube5 5
+    100726: Lights_pCube5 6
+    100728: Lights_pCube5 7
+    100730: Lights_pCube6
+    100732: Lights_pCube6 1
+    100734: Lights_pCube6 2
+    100736: Lights_pCube6 3
+    100738: Lights_pCube6 4
+    100740: Lights_pCube6 5
+    100742: Lights_pCube6 6
+    100744: Lights_pCube6 7
+    100746: Lights_pCube7
+    100748: Lights_pCube7 1
+    100750: Lights_pCube7 2
+    100752: Lights_pCube7 3
+    100754: Lights_pCube7 4
+    100756: Lights_pCube7 5
+    100758: Lights_pCube7 6
+    100760: Lights_pCube7 7
+    100762: Lights_pCube8
+    100764: Lights_pCube8 1
+    100766: Lights_pCube8 2
+    100768: Lights_pCube8 3
+    100770: Lights_pCube8 4
+    100772: Lights_pCube8 5
+    100774: Lights_pCube8 6
+    100776: Lights_pCube8 7
+    100778: Lights_pCube9
+    100780: Lights_pCube9 1
+    100782: Lights_pCube9 2
+    100784: Lights_pCube9 3
+    100786: Lights_pCube9 4
+    100788: Lights_pCube9 5
+    100790: Lights_pCube9 6
+    100792: Lights_pCube9 7
+    100794: Lights_pCylinder2
+    100796: Lights_pCylinder2 1
+    100798: Lights_pCylinder2 2
+    100800: Lights_pCylinder2 3
+    100802: Lights_pCylinder2 4
+    100804: Lights_pCylinder2 5
+    100806: Lights_pCylinder2 6
+    100808: Lights_pCylinder2 7
+    100810: Lights_pCylinder3
+    100812: Lights_pCylinder3 1
+    100814: Lights_pCylinder3 10
+    100816: Lights_pCylinder3 11
+    100818: Lights_pCylinder3 12
+    100820: Lights_pCylinder3 13
+    100822: Lights_pCylinder3 14
+    100824: Lights_pCylinder3 15
+    100826: Lights_pCylinder3 2
+    100828: Lights_pCylinder3 3
+    100830: Lights_pCylinder3 4
+    100832: Lights_pCylinder3 5
+    100834: Lights_pCylinder3 6
+    100836: Lights_pCylinder3 7
+    100838: Lights_pCylinder3 8
+    100840: Lights_pCylinder3 9
+    100842: Lights_pCylinder4
+    100844: Lights_pCylinder4 1
+    100846: Lights_pCylinder4 10
+    100848: Lights_pCylinder4 11
+    100850: Lights_pCylinder4 12
+    100852: Lights_pCylinder4 13
+    100854: Lights_pCylinder4 14
+    100856: Lights_pCylinder4 15
+    100858: Lights_pCylinder4 2
+    100860: Lights_pCylinder4 3
+    100862: Lights_pCylinder4 4
+    100864: Lights_pCylinder4 5
+    100866: Lights_pCylinder4 6
+    100868: Lights_pCylinder4 7
+    100870: Lights_pCylinder4 8
+    100872: Lights_pCylinder4 9
+    100874: MainPipeGroup
+    100876: MainWaterPipe
+    100878: MetalCeiling
+    100880: pCube2
+    100882: pCube2 1
+    100884: pCube3
+    100886: pCube3 1
+    100888: pCube4
+    100890: pCube4 1
+    100892: pCube5
+    100894: pCube5 1
+    100896: pCylinder1
+    100898: pCylinder2
+    100900: Pipe
+    100902: PipeHanger1
+    100904: PipeHanger2
+    100906: PipeHanger3
+    100908: polySurface10
+    100910: polySurface11
+    100912: polySurface12
+    100914: polySurface13
+    100916: polySurface8
+    100918: polySurface9
+    100920: ProjectorGroup1
+    100922: ProjectorGroup2
+    100924: ProjectorGroup3
+    100926: ProjectorMount
+    100928: ProjectorMount 1
+    100930: ProjectorMount 2
+    100932: Projectors
+    100934: ProjectorSupport
+    100936: ProjectorSupport 1
+    100938: ProjectorSupport 2
+    100940: Rafter1
+    100942: Rafter2
+    100944: Rafter3
+    100946: Rafter4
+    100948: Rafters
+    100950: Screen
+    100952: Screen1
+    100954: SouthWallSupport
+    100956: SprinklerPipe1
+    100958: SprinklerPipe2
+    100960: SprinklerPipeGroup1
+    100962: SprinklerPipeGroup2
+    100964: SprinklerPipeHanger1
+    100966: SprinklerPipeHanger1 1
+    100968: SprinklerPipeHanger2
+    100970: SprinklerPipeHanger2 1
+    100972: SprinklerPipeHanger3
+    100974: SprinklerPipeHanger3 1
+    100976: WaterPipe
+    100978: WaterTee
+    100980: WaterTee1
+    100982: WaterTee2
+    400000: //RootNode
+    400002: CeilingGroup
+    400004: Ductwork
+    400006: Lights
+    400008: Lights1
+    400010: Lights_group1
+    400012: Lights_group1 1
+    400014: Lights_group1 2
+    400016: Lights_group1 3
+    400018: Lights_group1 4
+    400020: Lights_group1 5
+    400022: Lights_group1 6
+    400024: Lights_group1 7
+    400026: Lights_group10
+    400028: Lights_group11
+    400030: Lights_group12
+    400032: Lights_group14
+    400034: Lights_group15
+    400036: Lights_group3
+    400038: Lights_group3 1
+    400040: Lights_group3 2
+    400042: Lights_group3 3
+    400044: Lights_group3 4
+    400046: Lights_group3 5
+    400048: Lights_group3 6
+    400050: Lights_group3 7
+    400052: Lights_group4
+    400054: Lights_group4 1
+    400056: Lights_group4 2
+    400058: Lights_group4 3
+    400060: Lights_group4 4
+    400062: Lights_group4 5
+    400064: Lights_group4 6
+    400066: Lights_group4 7
+    400068: Lights_group5
+    400070: Lights_group5 1
+    400072: Lights_group5 2
+    400074: Lights_group5 3
+    400076: Lights_group5 4
+    400078: Lights_group5 5
+    400080: Lights_group5 6
+    400082: Lights_group5 7
+    400084: Lights_group6
+    400086: Lights_group6 1
+    400088: Lights_group6 2
+    400090: Lights_group6 3
+    400092: Lights_group6 4
+    400094: Lights_group6 5
+    400096: Lights_group6 6
+    400098: Lights_group6 7
+    400100: Lights_group7
+    400102: Lights_group8
+    400104: Lights_group9
+    400106: Lights_LightCasing1
+    400108: Lights_LightCasing1 1
+    400110: Lights_LightCasing1 2
+    400112: Lights_LightCasing1 3
+    400114: Lights_LightCasing1 4
+    400116: Lights_LightCasing1 5
+    400118: Lights_LightCasing1 6
+    400120: Lights_LightCasing1 7
+    400122: Lights_pCube1
+    400124: Lights_pCube1 1
+    400126: Lights_pCube1 2
+    400128: Lights_pCube1 3
+    400130: Lights_pCube1 4
+    400132: Lights_pCube1 5
+    400134: Lights_pCube1 6
+    400136: Lights_pCube1 7
+    400138: Lights_pCube10
+    400140: Lights_pCube10 1
+    400142: Lights_pCube10 2
+    400144: Lights_pCube10 3
+    400146: Lights_pCube10 4
+    400148: Lights_pCube10 5
+    400150: Lights_pCube10 6
+    400152: Lights_pCube10 7
+    400154: Lights_pCube11
+    400156: Lights_pCube11 1
+    400158: Lights_pCube11 2
+    400160: Lights_pCube11 3
+    400162: Lights_pCube11 4
+    400164: Lights_pCube11 5
+    400166: Lights_pCube11 6
+    400168: Lights_pCube11 7
+    400170: Lights_pCube12
+    400172: Lights_pCube12 1
+    400174: Lights_pCube12 2
+    400176: Lights_pCube12 3
+    400178: Lights_pCube12 4
+    400180: Lights_pCube12 5
+    400182: Lights_pCube12 6
+    400184: Lights_pCube12 7
+    400186: Lights_pCube13
+    400188: Lights_pCube13 1
+    400190: Lights_pCube13 2
+    400192: Lights_pCube13 3
+    400194: Lights_pCube13 4
+    400196: Lights_pCube13 5
+    400198: Lights_pCube13 6
+    400200: Lights_pCube13 7
+    400202: Lights_pCube14
+    400204: Lights_pCube14 1
+    400206: Lights_pCube14 2
+    400208: Lights_pCube14 3
+    400210: Lights_pCube14 4
+    400212: Lights_pCube14 5
+    400214: Lights_pCube14 6
+    400216: Lights_pCube14 7
+    400218: Lights_pCube15
+    400220: Lights_pCube15 1
+    400222: Lights_pCube15 2
+    400224: Lights_pCube15 3
+    400226: Lights_pCube15 4
+    400228: Lights_pCube15 5
+    400230: Lights_pCube15 6
+    400232: Lights_pCube15 7
+    400234: Lights_pCube16
+    400236: Lights_pCube16 1
+    400238: Lights_pCube16 2
+    400240: Lights_pCube16 3
+    400242: Lights_pCube16 4
+    400244: Lights_pCube16 5
+    400246: Lights_pCube16 6
+    400248: Lights_pCube16 7
+    400250: Lights_pCube17
+    400252: Lights_pCube17 1
+    400254: Lights_pCube17 2
+    400256: Lights_pCube17 3
+    400258: Lights_pCube17 4
+    400260: Lights_pCube17 5
+    400262: Lights_pCube17 6
+    400264: Lights_pCube17 7
+    400266: Lights_pCube18
+    400268: Lights_pCube18 1
+    400270: Lights_pCube18 2
+    400272: Lights_pCube18 3
+    400274: Lights_pCube18 4
+    400276: Lights_pCube18 5
+    400278: Lights_pCube18 6
+    400280: Lights_pCube18 7
+    400282: Lights_pCube19
+    400284: Lights_pCube19 1
+    400286: Lights_pCube19 2
+    400288: Lights_pCube19 3
+    400290: Lights_pCube19 4
+    400292: Lights_pCube19 5
+    400294: Lights_pCube19 6
+    400296: Lights_pCube19 7
+    400298: Lights_pCube2
+    400300: Lights_pCube2 1
+    400302: Lights_pCube2 2
+    400304: Lights_pCube2 3
+    400306: Lights_pCube2 4
+    400308: Lights_pCube2 5
+    400310: Lights_pCube2 6
+    400312: Lights_pCube2 7
+    400314: Lights_pCube20
+    400316: Lights_pCube20 1
+    400318: Lights_pCube20 2
+    400320: Lights_pCube20 3
+    400322: Lights_pCube20 4
+    400324: Lights_pCube20 5
+    400326: Lights_pCube20 6
+    400328: Lights_pCube20 7
+    400330: Lights_pCube21
+    400332: Lights_pCube21 1
+    400334: Lights_pCube21 2
+    400336: Lights_pCube21 3
+    400338: Lights_pCube21 4
+    400340: Lights_pCube21 5
+    400342: Lights_pCube21 6
+    400344: Lights_pCube21 7
+    400346: Lights_pCube22
+    400348: Lights_pCube22 1
+    400350: Lights_pCube22 2
+    400352: Lights_pCube22 3
+    400354: Lights_pCube22 4
+    400356: Lights_pCube22 5
+    400358: Lights_pCube22 6
+    400360: Lights_pCube22 7
+    400362: Lights_pCube23
+    400364: Lights_pCube23 1
+    400366: Lights_pCube23 2
+    400368: Lights_pCube23 3
+    400370: Lights_pCube23 4
+    400372: Lights_pCube23 5
+    400374: Lights_pCube23 6
+    400376: Lights_pCube23 7
+    400378: Lights_pCube24
+    400380: Lights_pCube24 1
+    400382: Lights_pCube24 2
+    400384: Lights_pCube24 3
+    400386: Lights_pCube24 4
+    400388: Lights_pCube24 5
+    400390: Lights_pCube24 6
+    400392: Lights_pCube24 7
+    400394: Lights_pCube25
+    400396: Lights_pCube25 1
+    400398: Lights_pCube25 2
+    400400: Lights_pCube25 3
+    400402: Lights_pCube25 4
+    400404: Lights_pCube25 5
+    400406: Lights_pCube25 6
+    400408: Lights_pCube25 7
+    400410: Lights_pCube26
+    400412: Lights_pCube26 1
+    400414: Lights_pCube26 2
+    400416: Lights_pCube26 3
+    400418: Lights_pCube26 4
+    400420: Lights_pCube26 5
+    400422: Lights_pCube26 6
+    400424: Lights_pCube26 7
+    400426: Lights_pCube27
+    400428: Lights_pCube27 1
+    400430: Lights_pCube27 2
+    400432: Lights_pCube27 3
+    400434: Lights_pCube27 4
+    400436: Lights_pCube27 5
+    400438: Lights_pCube27 6
+    400440: Lights_pCube27 7
+    400442: Lights_pCube28
+    400444: Lights_pCube28 1
+    400446: Lights_pCube28 2
+    400448: Lights_pCube28 3
+    400450: Lights_pCube28 4
+    400452: Lights_pCube28 5
+    400454: Lights_pCube28 6
+    400456: Lights_pCube28 7
+    400458: Lights_pCube29
+    400460: Lights_pCube29 1
+    400462: Lights_pCube29 2
+    400464: Lights_pCube29 3
+    400466: Lights_pCube29 4
+    400468: Lights_pCube29 5
+    400470: Lights_pCube29 6
+    400472: Lights_pCube29 7
+    400474: Lights_pCube3
+    400476: Lights_pCube3 1
+    400478: Lights_pCube3 2
+    400480: Lights_pCube3 3
+    400482: Lights_pCube3 4
+    400484: Lights_pCube3 5
+    400486: Lights_pCube3 6
+    400488: Lights_pCube3 7
+    400490: Lights_pCube30
+    400492: Lights_pCube30 1
+    400494: Lights_pCube30 2
+    400496: Lights_pCube30 3
+    400498: Lights_pCube30 4
+    400500: Lights_pCube30 5
+    400502: Lights_pCube30 6
+    400504: Lights_pCube30 7
+    400506: Lights_pCube31
+    400508: Lights_pCube31 1
+    400510: Lights_pCube31 2
+    400512: Lights_pCube31 3
+    400514: Lights_pCube31 4
+    400516: Lights_pCube31 5
+    400518: Lights_pCube31 6
+    400520: Lights_pCube31 7
+    400522: Lights_pCube32
+    400524: Lights_pCube32 1
+    400526: Lights_pCube32 2
+    400528: Lights_pCube32 3
+    400530: Lights_pCube32 4
+    400532: Lights_pCube32 5
+    400534: Lights_pCube32 6
+    400536: Lights_pCube32 7
+    400538: Lights_pCube33
+    400540: Lights_pCube33 1
+    400542: Lights_pCube33 2
+    400544: Lights_pCube33 3
+    400546: Lights_pCube33 4
+    400548: Lights_pCube33 5
+    400550: Lights_pCube33 6
+    400552: Lights_pCube33 7
+    400554: Lights_pCube34
+    400556: Lights_pCube34 1
+    400558: Lights_pCube34 2
+    400560: Lights_pCube34 3
+    400562: Lights_pCube34 4
+    400564: Lights_pCube34 5
+    400566: Lights_pCube34 6
+    400568: Lights_pCube34 7
+    400570: Lights_pCube35
+    400572: Lights_pCube35 1
+    400574: Lights_pCube35 2
+    400576: Lights_pCube35 3
+    400578: Lights_pCube35 4
+    400580: Lights_pCube35 5
+    400582: Lights_pCube35 6
+    400584: Lights_pCube35 7
+    400586: Lights_pCube36
+    400588: Lights_pCube36 1
+    400590: Lights_pCube36 2
+    400592: Lights_pCube36 3
+    400594: Lights_pCube36 4
+    400596: Lights_pCube36 5
+    400598: Lights_pCube36 6
+    400600: Lights_pCube36 7
+    400602: Lights_pCube37
+    400604: Lights_pCube37 1
+    400606: Lights_pCube37 2
+    400608: Lights_pCube37 3
+    400610: Lights_pCube37 4
+    400612: Lights_pCube37 5
+    400614: Lights_pCube37 6
+    400616: Lights_pCube37 7
+    400618: Lights_pCube38
+    400620: Lights_pCube38 1
+    400622: Lights_pCube38 2
+    400624: Lights_pCube38 3
+    400626: Lights_pCube38 4
+    400628: Lights_pCube38 5
+    400630: Lights_pCube38 6
+    400632: Lights_pCube38 7
+    400634: Lights_pCube39
+    400636: Lights_pCube39 1
+    400638: Lights_pCube39 2
+    400640: Lights_pCube39 3
+    400642: Lights_pCube39 4
+    400644: Lights_pCube39 5
+    400646: Lights_pCube39 6
+    400648: Lights_pCube39 7
+    400650: Lights_pCube4
+    400652: Lights_pCube4 1
+    400654: Lights_pCube4 2
+    400656: Lights_pCube4 3
+    400658: Lights_pCube4 4
+    400660: Lights_pCube4 5
+    400662: Lights_pCube4 6
+    400664: Lights_pCube4 7
+    400666: Lights_pCube40
+    400668: Lights_pCube40 1
+    400670: Lights_pCube40 2
+    400672: Lights_pCube40 3
+    400674: Lights_pCube40 4
+    400676: Lights_pCube40 5
+    400678: Lights_pCube40 6
+    400680: Lights_pCube40 7
+    400682: Lights_pCube41
+    400684: Lights_pCube41 1
+    400686: Lights_pCube41 2
+    400688: Lights_pCube41 3
+    400690: Lights_pCube41 4
+    400692: Lights_pCube41 5
+    400694: Lights_pCube41 6
+    400696: Lights_pCube41 7
+    400698: Lights_pCube42
+    400700: Lights_pCube42 1
+    400702: Lights_pCube42 2
+    400704: Lights_pCube42 3
+    400706: Lights_pCube42 4
+    400708: Lights_pCube42 5
+    400710: Lights_pCube42 6
+    400712: Lights_pCube42 7
+    400714: Lights_pCube5
+    400716: Lights_pCube5 1
+    400718: Lights_pCube5 2
+    400720: Lights_pCube5 3
+    400722: Lights_pCube5 4
+    400724: Lights_pCube5 5
+    400726: Lights_pCube5 6
+    400728: Lights_pCube5 7
+    400730: Lights_pCube6
+    400732: Lights_pCube6 1
+    400734: Lights_pCube6 2
+    400736: Lights_pCube6 3
+    400738: Lights_pCube6 4
+    400740: Lights_pCube6 5
+    400742: Lights_pCube6 6
+    400744: Lights_pCube6 7
+    400746: Lights_pCube7
+    400748: Lights_pCube7 1
+    400750: Lights_pCube7 2
+    400752: Lights_pCube7 3
+    400754: Lights_pCube7 4
+    400756: Lights_pCube7 5
+    400758: Lights_pCube7 6
+    400760: Lights_pCube7 7
+    400762: Lights_pCube8
+    400764: Lights_pCube8 1
+    400766: Lights_pCube8 2
+    400768: Lights_pCube8 3
+    400770: Lights_pCube8 4
+    400772: Lights_pCube8 5
+    400774: Lights_pCube8 6
+    400776: Lights_pCube8 7
+    400778: Lights_pCube9
+    400780: Lights_pCube9 1
+    400782: Lights_pCube9 2
+    400784: Lights_pCube9 3
+    400786: Lights_pCube9 4
+    400788: Lights_pCube9 5
+    400790: Lights_pCube9 6
+    400792: Lights_pCube9 7
+    400794: Lights_pCylinder2
+    400796: Lights_pCylinder2 1
+    400798: Lights_pCylinder2 2
+    400800: Lights_pCylinder2 3
+    400802: Lights_pCylinder2 4
+    400804: Lights_pCylinder2 5
+    400806: Lights_pCylinder2 6
+    400808: Lights_pCylinder2 7
+    400810: Lights_pCylinder3
+    400812: Lights_pCylinder3 1
+    400814: Lights_pCylinder3 10
+    400816: Lights_pCylinder3 11
+    400818: Lights_pCylinder3 12
+    400820: Lights_pCylinder3 13
+    400822: Lights_pCylinder3 14
+    400824: Lights_pCylinder3 15
+    400826: Lights_pCylinder3 2
+    400828: Lights_pCylinder3 3
+    400830: Lights_pCylinder3 4
+    400832: Lights_pCylinder3 5
+    400834: Lights_pCylinder3 6
+    400836: Lights_pCylinder3 7
+    400838: Lights_pCylinder3 8
+    400840: Lights_pCylinder3 9
+    400842: Lights_pCylinder4
+    400844: Lights_pCylinder4 1
+    400846: Lights_pCylinder4 10
+    400848: Lights_pCylinder4 11
+    400850: Lights_pCylinder4 12
+    400852: Lights_pCylinder4 13
+    400854: Lights_pCylinder4 14
+    400856: Lights_pCylinder4 15
+    400858: Lights_pCylinder4 2
+    400860: Lights_pCylinder4 3
+    400862: Lights_pCylinder4 4
+    400864: Lights_pCylinder4 5
+    400866: Lights_pCylinder4 6
+    400868: Lights_pCylinder4 7
+    400870: Lights_pCylinder4 8
+    400872: Lights_pCylinder4 9
+    400874: MainPipeGroup
+    400876: MainWaterPipe
+    400878: MetalCeiling
+    400880: pCube2
+    400882: pCube2 1
+    400884: pCube3
+    400886: pCube3 1
+    400888: pCube4
+    400890: pCube4 1
+    400892: pCube5
+    400894: pCube5 1
+    400896: pCylinder1
+    400898: pCylinder2
+    400900: Pipe
+    400902: PipeHanger1
+    400904: PipeHanger2
+    400906: PipeHanger3
+    400908: polySurface10
+    400910: polySurface11
+    400912: polySurface12
+    400914: polySurface13
+    400916: polySurface8
+    400918: polySurface9
+    400920: ProjectorGroup1
+    400922: ProjectorGroup2
+    400924: ProjectorGroup3
+    400926: ProjectorMount
+    400928: ProjectorMount 1
+    400930: ProjectorMount 2
+    400932: Projectors
+    400934: ProjectorSupport
+    400936: ProjectorSupport 1
+    400938: ProjectorSupport 2
+    400940: Rafter1
+    400942: Rafter2
+    400944: Rafter3
+    400946: Rafter4
+    400948: Rafters
+    400950: Screen
+    400952: Screen1
+    400954: SouthWallSupport
+    400956: SprinklerPipe1
+    400958: SprinklerPipe2
+    400960: SprinklerPipeGroup1
+    400962: SprinklerPipeGroup2
+    400964: SprinklerPipeHanger1
+    400966: SprinklerPipeHanger1 1
+    400968: SprinklerPipeHanger2
+    400970: SprinklerPipeHanger2 1
+    400972: SprinklerPipeHanger3
+    400974: SprinklerPipeHanger3 1
+    400976: WaterPipe
+    400978: WaterTee
+    400980: WaterTee1
+    400982: WaterTee2
+    2300000: Lights_LightCasing1
+    2300002: Lights_LightCasing1 1
+    2300004: Lights_LightCasing1 2
+    2300006: Lights_LightCasing1 3
+    2300008: Lights_LightCasing1 4
+    2300010: Lights_LightCasing1 5
+    2300012: Lights_LightCasing1 6
+    2300014: Lights_LightCasing1 7
+    2300016: Lights_pCube1
+    2300018: Lights_pCube1 1
+    2300020: Lights_pCube1 2
+    2300022: Lights_pCube1 3
+    2300024: Lights_pCube1 4
+    2300026: Lights_pCube1 5
+    2300028: Lights_pCube1 6
+    2300030: Lights_pCube1 7
+    2300032: Lights_pCube10
+    2300034: Lights_pCube10 1
+    2300036: Lights_pCube10 2
+    2300038: Lights_pCube10 3
+    2300040: Lights_pCube10 4
+    2300042: Lights_pCube10 5
+    2300044: Lights_pCube10 6
+    2300046: Lights_pCube10 7
+    2300048: Lights_pCube11
+    2300050: Lights_pCube11 1
+    2300052: Lights_pCube11 2
+    2300054: Lights_pCube11 3
+    2300056: Lights_pCube11 4
+    2300058: Lights_pCube11 5
+    2300060: Lights_pCube11 6
+    2300062: Lights_pCube11 7
+    2300064: Lights_pCube12
+    2300066: Lights_pCube12 1
+    2300068: Lights_pCube12 2
+    2300070: Lights_pCube12 3
+    2300072: Lights_pCube12 4
+    2300074: Lights_pCube12 5
+    2300076: Lights_pCube12 6
+    2300078: Lights_pCube12 7
+    2300080: Lights_pCube13
+    2300082: Lights_pCube13 1
+    2300084: Lights_pCube13 2
+    2300086: Lights_pCube13 3
+    2300088: Lights_pCube13 4
+    2300090: Lights_pCube13 5
+    2300092: Lights_pCube13 6
+    2300094: Lights_pCube13 7
+    2300096: Lights_pCube14
+    2300098: Lights_pCube14 1
+    2300100: Lights_pCube14 2
+    2300102: Lights_pCube14 3
+    2300104: Lights_pCube14 4
+    2300106: Lights_pCube14 5
+    2300108: Lights_pCube14 6
+    2300110: Lights_pCube14 7
+    2300112: Lights_pCube15
+    2300114: Lights_pCube15 1
+    2300116: Lights_pCube15 2
+    2300118: Lights_pCube15 3
+    2300120: Lights_pCube15 4
+    2300122: Lights_pCube15 5
+    2300124: Lights_pCube15 6
+    2300126: Lights_pCube15 7
+    2300128: Lights_pCube16
+    2300130: Lights_pCube16 1
+    2300132: Lights_pCube16 2
+    2300134: Lights_pCube16 3
+    2300136: Lights_pCube16 4
+    2300138: Lights_pCube16 5
+    2300140: Lights_pCube16 6
+    2300142: Lights_pCube16 7
+    2300144: Lights_pCube17
+    2300146: Lights_pCube17 1
+    2300148: Lights_pCube17 2
+    2300150: Lights_pCube17 3
+    2300152: Lights_pCube17 4
+    2300154: Lights_pCube17 5
+    2300156: Lights_pCube17 6
+    2300158: Lights_pCube17 7
+    2300160: Lights_pCube18
+    2300162: Lights_pCube18 1
+    2300164: Lights_pCube18 2
+    2300166: Lights_pCube18 3
+    2300168: Lights_pCube18 4
+    2300170: Lights_pCube18 5
+    2300172: Lights_pCube18 6
+    2300174: Lights_pCube18 7
+    2300176: Lights_pCube19
+    2300178: Lights_pCube19 1
+    2300180: Lights_pCube19 2
+    2300182: Lights_pCube19 3
+    2300184: Lights_pCube19 4
+    2300186: Lights_pCube19 5
+    2300188: Lights_pCube19 6
+    2300190: Lights_pCube19 7
+    2300192: Lights_pCube2
+    2300194: Lights_pCube2 1
+    2300196: Lights_pCube2 2
+    2300198: Lights_pCube2 3
+    2300200: Lights_pCube2 4
+    2300202: Lights_pCube2 5
+    2300204: Lights_pCube2 6
+    2300206: Lights_pCube2 7
+    2300208: Lights_pCube20
+    2300210: Lights_pCube20 1
+    2300212: Lights_pCube20 2
+    2300214: Lights_pCube20 3
+    2300216: Lights_pCube20 4
+    2300218: Lights_pCube20 5
+    2300220: Lights_pCube20 6
+    2300222: Lights_pCube20 7
+    2300224: Lights_pCube21
+    2300226: Lights_pCube21 1
+    2300228: Lights_pCube21 2
+    2300230: Lights_pCube21 3
+    2300232: Lights_pCube21 4
+    2300234: Lights_pCube21 5
+    2300236: Lights_pCube21 6
+    2300238: Lights_pCube21 7
+    2300240: Lights_pCube22
+    2300242: Lights_pCube22 1
+    2300244: Lights_pCube22 2
+    2300246: Lights_pCube22 3
+    2300248: Lights_pCube22 4
+    2300250: Lights_pCube22 5
+    2300252: Lights_pCube22 6
+    2300254: Lights_pCube22 7
+    2300256: Lights_pCube23
+    2300258: Lights_pCube23 1
+    2300260: Lights_pCube23 2
+    2300262: Lights_pCube23 3
+    2300264: Lights_pCube23 4
+    2300266: Lights_pCube23 5
+    2300268: Lights_pCube23 6
+    2300270: Lights_pCube23 7
+    2300272: Lights_pCube24
+    2300274: Lights_pCube24 1
+    2300276: Lights_pCube24 2
+    2300278: Lights_pCube24 3
+    2300280: Lights_pCube24 4
+    2300282: Lights_pCube24 5
+    2300284: Lights_pCube24 6
+    2300286: Lights_pCube24 7
+    2300288: Lights_pCube25
+    2300290: Lights_pCube25 1
+    2300292: Lights_pCube25 2
+    2300294: Lights_pCube25 3
+    2300296: Lights_pCube25 4
+    2300298: Lights_pCube25 5
+    2300300: Lights_pCube25 6
+    2300302: Lights_pCube25 7
+    2300304: Lights_pCube26
+    2300306: Lights_pCube26 1
+    2300308: Lights_pCube26 2
+    2300310: Lights_pCube26 3
+    2300312: Lights_pCube26 4
+    2300314: Lights_pCube26 5
+    2300316: Lights_pCube26 6
+    2300318: Lights_pCube26 7
+    2300320: Lights_pCube27
+    2300322: Lights_pCube27 1
+    2300324: Lights_pCube27 2
+    2300326: Lights_pCube27 3
+    2300328: Lights_pCube27 4
+    2300330: Lights_pCube27 5
+    2300332: Lights_pCube27 6
+    2300334: Lights_pCube27 7
+    2300336: Lights_pCube28
+    2300338: Lights_pCube28 1
+    2300340: Lights_pCube28 2
+    2300342: Lights_pCube28 3
+    2300344: Lights_pCube28 4
+    2300346: Lights_pCube28 5
+    2300348: Lights_pCube28 6
+    2300350: Lights_pCube28 7
+    2300352: Lights_pCube29
+    2300354: Lights_pCube29 1
+    2300356: Lights_pCube29 2
+    2300358: Lights_pCube29 3
+    2300360: Lights_pCube29 4
+    2300362: Lights_pCube29 5
+    2300364: Lights_pCube29 6
+    2300366: Lights_pCube29 7
+    2300368: Lights_pCube3
+    2300370: Lights_pCube3 1
+    2300372: Lights_pCube3 2
+    2300374: Lights_pCube3 3
+    2300376: Lights_pCube3 4
+    2300378: Lights_pCube3 5
+    2300380: Lights_pCube3 6
+    2300382: Lights_pCube3 7
+    2300384: Lights_pCube30
+    2300386: Lights_pCube30 1
+    2300388: Lights_pCube30 2
+    2300390: Lights_pCube30 3
+    2300392: Lights_pCube30 4
+    2300394: Lights_pCube30 5
+    2300396: Lights_pCube30 6
+    2300398: Lights_pCube30 7
+    2300400: Lights_pCube31
+    2300402: Lights_pCube31 1
+    2300404: Lights_pCube31 2
+    2300406: Lights_pCube31 3
+    2300408: Lights_pCube31 4
+    2300410: Lights_pCube31 5
+    2300412: Lights_pCube31 6
+    2300414: Lights_pCube31 7
+    2300416: Lights_pCube32
+    2300418: Lights_pCube32 1
+    2300420: Lights_pCube32 2
+    2300422: Lights_pCube32 3
+    2300424: Lights_pCube32 4
+    2300426: Lights_pCube32 5
+    2300428: Lights_pCube32 6
+    2300430: Lights_pCube32 7
+    2300432: Lights_pCube33
+    2300434: Lights_pCube33 1
+    2300436: Lights_pCube33 2
+    2300438: Lights_pCube33 3
+    2300440: Lights_pCube33 4
+    2300442: Lights_pCube33 5
+    2300444: Lights_pCube33 6
+    2300446: Lights_pCube33 7
+    2300448: Lights_pCube34
+    2300450: Lights_pCube34 1
+    2300452: Lights_pCube34 2
+    2300454: Lights_pCube34 3
+    2300456: Lights_pCube34 4
+    2300458: Lights_pCube34 5
+    2300460: Lights_pCube34 6
+    2300462: Lights_pCube34 7
+    2300464: Lights_pCube35
+    2300466: Lights_pCube35 1
+    2300468: Lights_pCube35 2
+    2300470: Lights_pCube35 3
+    2300472: Lights_pCube35 4
+    2300474: Lights_pCube35 5
+    2300476: Lights_pCube35 6
+    2300478: Lights_pCube35 7
+    2300480: Lights_pCube36
+    2300482: Lights_pCube36 1
+    2300484: Lights_pCube36 2
+    2300486: Lights_pCube36 3
+    2300488: Lights_pCube36 4
+    2300490: Lights_pCube36 5
+    2300492: Lights_pCube36 6
+    2300494: Lights_pCube36 7
+    2300496: Lights_pCube37
+    2300498: Lights_pCube37 1
+    2300500: Lights_pCube37 2
+    2300502: Lights_pCube37 3
+    2300504: Lights_pCube37 4
+    2300506: Lights_pCube37 5
+    2300508: Lights_pCube37 6
+    2300510: Lights_pCube37 7
+    2300512: Lights_pCube38
+    2300514: Lights_pCube38 1
+    2300516: Lights_pCube38 2
+    2300518: Lights_pCube38 3
+    2300520: Lights_pCube38 4
+    2300522: Lights_pCube38 5
+    2300524: Lights_pCube38 6
+    2300526: Lights_pCube38 7
+    2300528: Lights_pCube39
+    2300530: Lights_pCube39 1
+    2300532: Lights_pCube39 2
+    2300534: Lights_pCube39 3
+    2300536: Lights_pCube39 4
+    2300538: Lights_pCube39 5
+    2300540: Lights_pCube39 6
+    2300542: Lights_pCube39 7
+    2300544: Lights_pCube4
+    2300546: Lights_pCube4 1
+    2300548: Lights_pCube4 2
+    2300550: Lights_pCube4 3
+    2300552: Lights_pCube4 4
+    2300554: Lights_pCube4 5
+    2300556: Lights_pCube4 6
+    2300558: Lights_pCube4 7
+    2300560: Lights_pCube40
+    2300562: Lights_pCube40 1
+    2300564: Lights_pCube40 2
+    2300566: Lights_pCube40 3
+    2300568: Lights_pCube40 4
+    2300570: Lights_pCube40 5
+    2300572: Lights_pCube40 6
+    2300574: Lights_pCube40 7
+    2300576: Lights_pCube41
+    2300578: Lights_pCube41 1
+    2300580: Lights_pCube41 2
+    2300582: Lights_pCube41 3
+    2300584: Lights_pCube41 4
+    2300586: Lights_pCube41 5
+    2300588: Lights_pCube41 6
+    2300590: Lights_pCube41 7
+    2300592: Lights_pCube42
+    2300594: Lights_pCube42 1
+    2300596: Lights_pCube42 2
+    2300598: Lights_pCube42 3
+    2300600: Lights_pCube42 4
+    2300602: Lights_pCube42 5
+    2300604: Lights_pCube42 6
+    2300606: Lights_pCube42 7
+    2300608: Lights_pCube5
+    2300610: Lights_pCube5 1
+    2300612: Lights_pCube5 2
+    2300614: Lights_pCube5 3
+    2300616: Lights_pCube5 4
+    2300618: Lights_pCube5 5
+    2300620: Lights_pCube5 6
+    2300622: Lights_pCube5 7
+    2300624: Lights_pCube6
+    2300626: Lights_pCube6 1
+    2300628: Lights_pCube6 2
+    2300630: Lights_pCube6 3
+    2300632: Lights_pCube6 4
+    2300634: Lights_pCube6 5
+    2300636: Lights_pCube6 6
+    2300638: Lights_pCube6 7
+    2300640: Lights_pCube7
+    2300642: Lights_pCube7 1
+    2300644: Lights_pCube7 2
+    2300646: Lights_pCube7 3
+    2300648: Lights_pCube7 4
+    2300650: Lights_pCube7 5
+    2300652: Lights_pCube7 6
+    2300654: Lights_pCube7 7
+    2300656: Lights_pCube8
+    2300658: Lights_pCube8 1
+    2300660: Lights_pCube8 2
+    2300662: Lights_pCube8 3
+    2300664: Lights_pCube8 4
+    2300666: Lights_pCube8 5
+    2300668: Lights_pCube8 6
+    2300670: Lights_pCube8 7
+    2300672: Lights_pCube9
+    2300674: Lights_pCube9 1
+    2300676: Lights_pCube9 2
+    2300678: Lights_pCube9 3
+    2300680: Lights_pCube9 4
+    2300682: Lights_pCube9 5
+    2300684: Lights_pCube9 6
+    2300686: Lights_pCube9 7
+    2300688: Lights_pCylinder2
+    2300690: Lights_pCylinder2 1
+    2300692: Lights_pCylinder2 2
+    2300694: Lights_pCylinder2 3
+    2300696: Lights_pCylinder2 4
+    2300698: Lights_pCylinder2 5
+    2300700: Lights_pCylinder2 6
+    2300702: Lights_pCylinder2 7
+    2300704: Lights_pCylinder3
+    2300706: Lights_pCylinder3 1
+    2300708: Lights_pCylinder3 10
+    2300710: Lights_pCylinder3 11
+    2300712: Lights_pCylinder3 12
+    2300714: Lights_pCylinder3 13
+    2300716: Lights_pCylinder3 14
+    2300718: Lights_pCylinder3 15
+    2300720: Lights_pCylinder3 2
+    2300722: Lights_pCylinder3 3
+    2300724: Lights_pCylinder3 4
+    2300726: Lights_pCylinder3 5
+    2300728: Lights_pCylinder3 6
+    2300730: Lights_pCylinder3 7
+    2300732: Lights_pCylinder3 8
+    2300734: Lights_pCylinder3 9
+    2300736: Lights_pCylinder4
+    2300738: Lights_pCylinder4 1
+    2300740: Lights_pCylinder4 10
+    2300742: Lights_pCylinder4 11
+    2300744: Lights_pCylinder4 12
+    2300746: Lights_pCylinder4 13
+    2300748: Lights_pCylinder4 14
+    2300750: Lights_pCylinder4 15
+    2300752: Lights_pCylinder4 2
+    2300754: Lights_pCylinder4 3
+    2300756: Lights_pCylinder4 4
+    2300758: Lights_pCylinder4 5
+    2300760: Lights_pCylinder4 6
+    2300762: Lights_pCylinder4 7
+    2300764: Lights_pCylinder4 8
+    2300766: Lights_pCylinder4 9
+    2300768: MainWaterPipe
+    2300770: MetalCeiling
+    2300772: pCube2
+    2300774: pCube2 1
+    2300776: pCube3
+    2300778: pCube3 1
+    2300780: pCube4
+    2300782: pCube4 1
+    2300784: pCube5
+    2300786: pCube5 1
+    2300788: Pipe
+    2300790: PipeHanger1
+    2300792: PipeHanger2
+    2300794: PipeHanger3
+    2300796: polySurface10
+    2300798: polySurface11
+    2300800: polySurface12
+    2300802: polySurface13
+    2300804: polySurface8
+    2300806: polySurface9
+    2300808: ProjectorMount
+    2300810: ProjectorMount 1
+    2300812: ProjectorMount 2
+    2300814: ProjectorSupport
+    2300816: ProjectorSupport 1
+    2300818: ProjectorSupport 2
+    2300820: Rafter1
+    2300822: Rafter2
+    2300824: Rafter3
+    2300826: Rafter4
+    2300828: SouthWallSupport
+    2300830: SprinklerPipe1
+    2300832: SprinklerPipe2
+    2300834: SprinklerPipeHanger1
+    2300836: SprinklerPipeHanger1 1
+    2300838: SprinklerPipeHanger2
+    2300840: SprinklerPipeHanger2 1
+    2300842: SprinklerPipeHanger3
+    2300844: SprinklerPipeHanger3 1
+    2300846: WaterTee
+    2300848: WaterTee1
+    2300850: WaterTee2
+    3300000: Lights_LightCasing1
+    3300002: Lights_LightCasing1 1
+    3300004: Lights_LightCasing1 2
+    3300006: Lights_LightCasing1 3
+    3300008: Lights_LightCasing1 4
+    3300010: Lights_LightCasing1 5
+    3300012: Lights_LightCasing1 6
+    3300014: Lights_LightCasing1 7
+    3300016: Lights_pCube1
+    3300018: Lights_pCube1 1
+    3300020: Lights_pCube1 2
+    3300022: Lights_pCube1 3
+    3300024: Lights_pCube1 4
+    3300026: Lights_pCube1 5
+    3300028: Lights_pCube1 6
+    3300030: Lights_pCube1 7
+    3300032: Lights_pCube10
+    3300034: Lights_pCube10 1
+    3300036: Lights_pCube10 2
+    3300038: Lights_pCube10 3
+    3300040: Lights_pCube10 4
+    3300042: Lights_pCube10 5
+    3300044: Lights_pCube10 6
+    3300046: Lights_pCube10 7
+    3300048: Lights_pCube11
+    3300050: Lights_pCube11 1
+    3300052: Lights_pCube11 2
+    3300054: Lights_pCube11 3
+    3300056: Lights_pCube11 4
+    3300058: Lights_pCube11 5
+    3300060: Lights_pCube11 6
+    3300062: Lights_pCube11 7
+    3300064: Lights_pCube12
+    3300066: Lights_pCube12 1
+    3300068: Lights_pCube12 2
+    3300070: Lights_pCube12 3
+    3300072: Lights_pCube12 4
+    3300074: Lights_pCube12 5
+    3300076: Lights_pCube12 6
+    3300078: Lights_pCube12 7
+    3300080: Lights_pCube13
+    3300082: Lights_pCube13 1
+    3300084: Lights_pCube13 2
+    3300086: Lights_pCube13 3
+    3300088: Lights_pCube13 4
+    3300090: Lights_pCube13 5
+    3300092: Lights_pCube13 6
+    3300094: Lights_pCube13 7
+    3300096: Lights_pCube14
+    3300098: Lights_pCube14 1
+    3300100: Lights_pCube14 2
+    3300102: Lights_pCube14 3
+    3300104: Lights_pCube14 4
+    3300106: Lights_pCube14 5
+    3300108: Lights_pCube14 6
+    3300110: Lights_pCube14 7
+    3300112: Lights_pCube15
+    3300114: Lights_pCube15 1
+    3300116: Lights_pCube15 2
+    3300118: Lights_pCube15 3
+    3300120: Lights_pCube15 4
+    3300122: Lights_pCube15 5
+    3300124: Lights_pCube15 6
+    3300126: Lights_pCube15 7
+    3300128: Lights_pCube16
+    3300130: Lights_pCube16 1
+    3300132: Lights_pCube16 2
+    3300134: Lights_pCube16 3
+    3300136: Lights_pCube16 4
+    3300138: Lights_pCube16 5
+    3300140: Lights_pCube16 6
+    3300142: Lights_pCube16 7
+    3300144: Lights_pCube17
+    3300146: Lights_pCube17 1
+    3300148: Lights_pCube17 2
+    3300150: Lights_pCube17 3
+    3300152: Lights_pCube17 4
+    3300154: Lights_pCube17 5
+    3300156: Lights_pCube17 6
+    3300158: Lights_pCube17 7
+    3300160: Lights_pCube18
+    3300162: Lights_pCube18 1
+    3300164: Lights_pCube18 2
+    3300166: Lights_pCube18 3
+    3300168: Lights_pCube18 4
+    3300170: Lights_pCube18 5
+    3300172: Lights_pCube18 6
+    3300174: Lights_pCube18 7
+    3300176: Lights_pCube19
+    3300178: Lights_pCube19 1
+    3300180: Lights_pCube19 2
+    3300182: Lights_pCube19 3
+    3300184: Lights_pCube19 4
+    3300186: Lights_pCube19 5
+    3300188: Lights_pCube19 6
+    3300190: Lights_pCube19 7
+    3300192: Lights_pCube2
+    3300194: Lights_pCube2 1
+    3300196: Lights_pCube2 2
+    3300198: Lights_pCube2 3
+    3300200: Lights_pCube2 4
+    3300202: Lights_pCube2 5
+    3300204: Lights_pCube2 6
+    3300206: Lights_pCube2 7
+    3300208: Lights_pCube20
+    3300210: Lights_pCube20 1
+    3300212: Lights_pCube20 2
+    3300214: Lights_pCube20 3
+    3300216: Lights_pCube20 4
+    3300218: Lights_pCube20 5
+    3300220: Lights_pCube20 6
+    3300222: Lights_pCube20 7
+    3300224: Lights_pCube21
+    3300226: Lights_pCube21 1
+    3300228: Lights_pCube21 2
+    3300230: Lights_pCube21 3
+    3300232: Lights_pCube21 4
+    3300234: Lights_pCube21 5
+    3300236: Lights_pCube21 6
+    3300238: Lights_pCube21 7
+    3300240: Lights_pCube22
+    3300242: Lights_pCube22 1
+    3300244: Lights_pCube22 2
+    3300246: Lights_pCube22 3
+    3300248: Lights_pCube22 4
+    3300250: Lights_pCube22 5
+    3300252: Lights_pCube22 6
+    3300254: Lights_pCube22 7
+    3300256: Lights_pCube23
+    3300258: Lights_pCube23 1
+    3300260: Lights_pCube23 2
+    3300262: Lights_pCube23 3
+    3300264: Lights_pCube23 4
+    3300266: Lights_pCube23 5
+    3300268: Lights_pCube23 6
+    3300270: Lights_pCube23 7
+    3300272: Lights_pCube24
+    3300274: Lights_pCube24 1
+    3300276: Lights_pCube24 2
+    3300278: Lights_pCube24 3
+    3300280: Lights_pCube24 4
+    3300282: Lights_pCube24 5
+    3300284: Lights_pCube24 6
+    3300286: Lights_pCube24 7
+    3300288: Lights_pCube25
+    3300290: Lights_pCube25 1
+    3300292: Lights_pCube25 2
+    3300294: Lights_pCube25 3
+    3300296: Lights_pCube25 4
+    3300298: Lights_pCube25 5
+    3300300: Lights_pCube25 6
+    3300302: Lights_pCube25 7
+    3300304: Lights_pCube26
+    3300306: Lights_pCube26 1
+    3300308: Lights_pCube26 2
+    3300310: Lights_pCube26 3
+    3300312: Lights_pCube26 4
+    3300314: Lights_pCube26 5
+    3300316: Lights_pCube26 6
+    3300318: Lights_pCube26 7
+    3300320: Lights_pCube27
+    3300322: Lights_pCube27 1
+    3300324: Lights_pCube27 2
+    3300326: Lights_pCube27 3
+    3300328: Lights_pCube27 4
+    3300330: Lights_pCube27 5
+    3300332: Lights_pCube27 6
+    3300334: Lights_pCube27 7
+    3300336: Lights_pCube28
+    3300338: Lights_pCube28 1
+    3300340: Lights_pCube28 2
+    3300342: Lights_pCube28 3
+    3300344: Lights_pCube28 4
+    3300346: Lights_pCube28 5
+    3300348: Lights_pCube28 6
+    3300350: Lights_pCube28 7
+    3300352: Lights_pCube29
+    3300354: Lights_pCube29 1
+    3300356: Lights_pCube29 2
+    3300358: Lights_pCube29 3
+    3300360: Lights_pCube29 4
+    3300362: Lights_pCube29 5
+    3300364: Lights_pCube29 6
+    3300366: Lights_pCube29 7
+    3300368: Lights_pCube3
+    3300370: Lights_pCube3 1
+    3300372: Lights_pCube3 2
+    3300374: Lights_pCube3 3
+    3300376: Lights_pCube3 4
+    3300378: Lights_pCube3 5
+    3300380: Lights_pCube3 6
+    3300382: Lights_pCube3 7
+    3300384: Lights_pCube30
+    3300386: Lights_pCube30 1
+    3300388: Lights_pCube30 2
+    3300390: Lights_pCube30 3
+    3300392: Lights_pCube30 4
+    3300394: Lights_pCube30 5
+    3300396: Lights_pCube30 6
+    3300398: Lights_pCube30 7
+    3300400: Lights_pCube31
+    3300402: Lights_pCube31 1
+    3300404: Lights_pCube31 2
+    3300406: Lights_pCube31 3
+    3300408: Lights_pCube31 4
+    3300410: Lights_pCube31 5
+    3300412: Lights_pCube31 6
+    3300414: Lights_pCube31 7
+    3300416: Lights_pCube32
+    3300418: Lights_pCube32 1
+    3300420: Lights_pCube32 2
+    3300422: Lights_pCube32 3
+    3300424: Lights_pCube32 4
+    3300426: Lights_pCube32 5
+    3300428: Lights_pCube32 6
+    3300430: Lights_pCube32 7
+    3300432: Lights_pCube33
+    3300434: Lights_pCube33 1
+    3300436: Lights_pCube33 2
+    3300438: Lights_pCube33 3
+    3300440: Lights_pCube33 4
+    3300442: Lights_pCube33 5
+    3300444: Lights_pCube33 6
+    3300446: Lights_pCube33 7
+    3300448: Lights_pCube34
+    3300450: Lights_pCube34 1
+    3300452: Lights_pCube34 2
+    3300454: Lights_pCube34 3
+    3300456: Lights_pCube34 4
+    3300458: Lights_pCube34 5
+    3300460: Lights_pCube34 6
+    3300462: Lights_pCube34 7
+    3300464: Lights_pCube35
+    3300466: Lights_pCube35 1
+    3300468: Lights_pCube35 2
+    3300470: Lights_pCube35 3
+    3300472: Lights_pCube35 4
+    3300474: Lights_pCube35 5
+    3300476: Lights_pCube35 6
+    3300478: Lights_pCube35 7
+    3300480: Lights_pCube36
+    3300482: Lights_pCube36 1
+    3300484: Lights_pCube36 2
+    3300486: Lights_pCube36 3
+    3300488: Lights_pCube36 4
+    3300490: Lights_pCube36 5
+    3300492: Lights_pCube36 6
+    3300494: Lights_pCube36 7
+    3300496: Lights_pCube37
+    3300498: Lights_pCube37 1
+    3300500: Lights_pCube37 2
+    3300502: Lights_pCube37 3
+    3300504: Lights_pCube37 4
+    3300506: Lights_pCube37 5
+    3300508: Lights_pCube37 6
+    3300510: Lights_pCube37 7
+    3300512: Lights_pCube38
+    3300514: Lights_pCube38 1
+    3300516: Lights_pCube38 2
+    3300518: Lights_pCube38 3
+    3300520: Lights_pCube38 4
+    3300522: Lights_pCube38 5
+    3300524: Lights_pCube38 6
+    3300526: Lights_pCube38 7
+    3300528: Lights_pCube39
+    3300530: Lights_pCube39 1
+    3300532: Lights_pCube39 2
+    3300534: Lights_pCube39 3
+    3300536: Lights_pCube39 4
+    3300538: Lights_pCube39 5
+    3300540: Lights_pCube39 6
+    3300542: Lights_pCube39 7
+    3300544: Lights_pCube4
+    3300546: Lights_pCube4 1
+    3300548: Lights_pCube4 2
+    3300550: Lights_pCube4 3
+    3300552: Lights_pCube4 4
+    3300554: Lights_pCube4 5
+    3300556: Lights_pCube4 6
+    3300558: Lights_pCube4 7
+    3300560: Lights_pCube40
+    3300562: Lights_pCube40 1
+    3300564: Lights_pCube40 2
+    3300566: Lights_pCube40 3
+    3300568: Lights_pCube40 4
+    3300570: Lights_pCube40 5
+    3300572: Lights_pCube40 6
+    3300574: Lights_pCube40 7
+    3300576: Lights_pCube41
+    3300578: Lights_pCube41 1
+    3300580: Lights_pCube41 2
+    3300582: Lights_pCube41 3
+    3300584: Lights_pCube41 4
+    3300586: Lights_pCube41 5
+    3300588: Lights_pCube41 6
+    3300590: Lights_pCube41 7
+    3300592: Lights_pCube42
+    3300594: Lights_pCube42 1
+    3300596: Lights_pCube42 2
+    3300598: Lights_pCube42 3
+    3300600: Lights_pCube42 4
+    3300602: Lights_pCube42 5
+    3300604: Lights_pCube42 6
+    3300606: Lights_pCube42 7
+    3300608: Lights_pCube5
+    3300610: Lights_pCube5 1
+    3300612: Lights_pCube5 2
+    3300614: Lights_pCube5 3
+    3300616: Lights_pCube5 4
+    3300618: Lights_pCube5 5
+    3300620: Lights_pCube5 6
+    3300622: Lights_pCube5 7
+    3300624: Lights_pCube6
+    3300626: Lights_pCube6 1
+    3300628: Lights_pCube6 2
+    3300630: Lights_pCube6 3
+    3300632: Lights_pCube6 4
+    3300634: Lights_pCube6 5
+    3300636: Lights_pCube6 6
+    3300638: Lights_pCube6 7
+    3300640: Lights_pCube7
+    3300642: Lights_pCube7 1
+    3300644: Lights_pCube7 2
+    3300646: Lights_pCube7 3
+    3300648: Lights_pCube7 4
+    3300650: Lights_pCube7 5
+    3300652: Lights_pCube7 6
+    3300654: Lights_pCube7 7
+    3300656: Lights_pCube8
+    3300658: Lights_pCube8 1
+    3300660: Lights_pCube8 2
+    3300662: Lights_pCube8 3
+    3300664: Lights_pCube8 4
+    3300666: Lights_pCube8 5
+    3300668: Lights_pCube8 6
+    3300670: Lights_pCube8 7
+    3300672: Lights_pCube9
+    3300674: Lights_pCube9 1
+    3300676: Lights_pCube9 2
+    3300678: Lights_pCube9 3
+    3300680: Lights_pCube9 4
+    3300682: Lights_pCube9 5
+    3300684: Lights_pCube9 6
+    3300686: Lights_pCube9 7
+    3300688: Lights_pCylinder2
+    3300690: Lights_pCylinder2 1
+    3300692: Lights_pCylinder2 2
+    3300694: Lights_pCylinder2 3
+    3300696: Lights_pCylinder2 4
+    3300698: Lights_pCylinder2 5
+    3300700: Lights_pCylinder2 6
+    3300702: Lights_pCylinder2 7
+    3300704: Lights_pCylinder3
+    3300706: Lights_pCylinder3 1
+    3300708: Lights_pCylinder3 10
+    3300710: Lights_pCylinder3 11
+    3300712: Lights_pCylinder3 12
+    3300714: Lights_pCylinder3 13
+    3300716: Lights_pCylinder3 14
+    3300718: Lights_pCylinder3 15
+    3300720: Lights_pCylinder3 2
+    3300722: Lights_pCylinder3 3
+    3300724: Lights_pCylinder3 4
+    3300726: Lights_pCylinder3 5
+    3300728: Lights_pCylinder3 6
+    3300730: Lights_pCylinder3 7
+    3300732: Lights_pCylinder3 8
+    3300734: Lights_pCylinder3 9
+    3300736: Lights_pCylinder4
+    3300738: Lights_pCylinder4 1
+    3300740: Lights_pCylinder4 10
+    3300742: Lights_pCylinder4 11
+    3300744: Lights_pCylinder4 12
+    3300746: Lights_pCylinder4 13
+    3300748: Lights_pCylinder4 14
+    3300750: Lights_pCylinder4 15
+    3300752: Lights_pCylinder4 2
+    3300754: Lights_pCylinder4 3
+    3300756: Lights_pCylinder4 4
+    3300758: Lights_pCylinder4 5
+    3300760: Lights_pCylinder4 6
+    3300762: Lights_pCylinder4 7
+    3300764: Lights_pCylinder4 8
+    3300766: Lights_pCylinder4 9
+    3300768: MainWaterPipe
+    3300770: MetalCeiling
+    3300772: pCube2
+    3300774: pCube2 1
+    3300776: pCube3
+    3300778: pCube3 1
+    3300780: pCube4
+    3300782: pCube4 1
+    3300784: pCube5
+    3300786: pCube5 1
+    3300788: Pipe
+    3300790: PipeHanger1
+    3300792: PipeHanger2
+    3300794: PipeHanger3
+    3300796: polySurface10
+    3300798: polySurface11
+    3300800: polySurface12
+    3300802: polySurface13
+    3300804: polySurface8
+    3300806: polySurface9
+    3300808: ProjectorMount
+    3300810: ProjectorMount 1
+    3300812: ProjectorMount 2
+    3300814: ProjectorSupport
+    3300816: ProjectorSupport 1
+    3300818: ProjectorSupport 2
+    3300820: Rafter1
+    3300822: Rafter2
+    3300824: Rafter3
+    3300826: Rafter4
+    3300828: SouthWallSupport
+    3300830: SprinklerPipe1
+    3300832: SprinklerPipe2
+    3300834: SprinklerPipeHanger1
+    3300836: SprinklerPipeHanger1 1
+    3300838: SprinklerPipeHanger2
+    3300840: SprinklerPipeHanger2 1
+    3300842: SprinklerPipeHanger3
+    3300844: SprinklerPipeHanger3 1
+    3300846: WaterTee
+    3300848: WaterTee1
+    3300850: WaterTee2
+    4300000: Rafter1
+    4300002: Rafter2
+    4300004: Rafter3
+    4300006: Rafter4
+    4300008: polySurface8
+    4300010: polySurface10
+    4300012: polySurface11
+    4300014: polySurface12
+    4300016: polySurface13
+    4300018: polySurface9
+    4300020: ProjectorMount
+    4300022: ProjectorSupport
+    4300024: ProjectorMount
+    4300026: ProjectorSupport
+    4300028: ProjectorMount
+    4300030: ProjectorSupport
+    4300032: pCube3
+    4300034: pCube2
+    4300036: pCube4
+    4300038: pCube5
+    4300040: pCube3
+    4300042: pCube2
+    4300044: pCube4
+    4300046: pCube5
+    4300048: Lights_LightCasing1
+    4300050: Lights_pCube1
+    4300052: Lights_pCube2
+    4300054: Lights_pCube3
+    4300056: Lights_pCube4
+    4300058: Lights_pCube5
+    4300060: Lights_pCube6
+    4300062: Lights_pCube7
+    4300064: Lights_pCube8
+    4300066: Lights_pCube9
+    4300068: Lights_pCube10
+    4300070: Lights_pCube11
+    4300072: Lights_pCube12
+    4300074: Lights_pCube13
+    4300076: Lights_pCube14
+    4300078: Lights_pCube15
+    4300080: Lights_pCube16
+    4300082: Lights_pCube17
+    4300084: Lights_pCube18
+    4300086: Lights_pCube19
+    4300088: Lights_pCube20
+    4300090: Lights_pCube21
+    4300092: Lights_pCube22
+    4300094: Lights_pCube23
+    4300096: Lights_pCube24
+    4300098: Lights_pCube25
+    4300100: Lights_pCube26
+    4300102: Lights_pCube27
+    4300104: Lights_pCube28
+    4300106: Lights_pCube29
+    4300108: Lights_pCube30
+    4300110: Lights_pCube31
+    4300112: Lights_pCube32
+    4300114: Lights_pCube33
+    4300116: Lights_pCube34
+    4300118: Lights_pCube35
+    4300120: Lights_pCube36
+    4300122: Lights_pCube37
+    4300124: Lights_pCube38
+    4300126: Lights_pCube39
+    4300128: Lights_pCube40
+    4300130: Lights_pCube41
+    4300132: Lights_pCube42
+    4300134: Lights_pCylinder2
+    4300136: Lights_pCylinder4
+    4300138: Lights_pCylinder3
+    4300140: Lights_pCylinder4
+    4300142: Lights_pCylinder3
+    4300144: Lights_LightCasing1
+    4300146: Lights_pCube1
+    4300148: Lights_pCube2
+    4300150: Lights_pCube3
+    4300152: Lights_pCube4
+    4300154: Lights_pCube5
+    4300156: Lights_pCube6
+    4300158: Lights_pCube7
+    4300160: Lights_pCube8
+    4300162: Lights_pCube9
+    4300164: Lights_pCube10
+    4300166: Lights_pCube11
+    4300168: Lights_pCube12
+    4300170: Lights_pCube13
+    4300172: Lights_pCube14
+    4300174: Lights_pCube15
+    4300176: Lights_pCube16
+    4300178: Lights_pCube17
+    4300180: Lights_pCube18
+    4300182: Lights_pCube19
+    4300184: Lights_pCube20
+    4300186: Lights_pCube21
+    4300188: Lights_pCube22
+    4300190: Lights_pCube23
+    4300192: Lights_pCube24
+    4300194: Lights_pCube25
+    4300196: Lights_pCube26
+    4300198: Lights_pCube27
+    4300200: Lights_pCube28
+    4300202: Lights_pCube29
+    4300204: Lights_pCube30
+    4300206: Lights_pCube31
+    4300208: Lights_pCube32
+    4300210: Lights_pCube33
+    4300212: Lights_pCube34
+    4300214: Lights_pCube35
+    4300216: Lights_pCube36
+    4300218: Lights_pCube37
+    4300220: Lights_pCube38
+    4300222: Lights_pCube39
+    4300224: Lights_pCube40
+    4300226: Lights_pCube41
+    4300228: Lights_pCube42
+    4300230: Lights_pCylinder2
+    4300232: Lights_pCylinder4
+    4300234: Lights_pCylinder3
+    4300236: Lights_pCylinder4
+    4300238: Lights_pCylinder3
+    4300240: Lights_LightCasing1
+    4300242: Lights_pCube1
+    4300244: Lights_pCube2
+    4300246: Lights_pCube3
+    4300248: Lights_pCube4
+    4300250: Lights_pCube5
+    4300252: Lights_pCube6
+    4300254: Lights_pCube7
+    4300256: Lights_pCube8
+    4300258: Lights_pCube9
+    4300260: Lights_pCube10
+    4300262: Lights_pCube11
+    4300264: Lights_pCube12
+    4300266: Lights_pCube13
+    4300268: Lights_pCube14
+    4300270: Lights_pCube15
+    4300272: Lights_pCube16
+    4300274: Lights_pCube17
+    4300276: Lights_pCube18
+    4300278: Lights_pCube19
+    4300280: Lights_pCube20
+    4300282: Lights_pCube21
+    4300284: Lights_pCube22
+    4300286: Lights_pCube23
+    4300288: Lights_pCube24
+    4300290: Lights_pCube25
+    4300292: Lights_pCube26
+    4300294: Lights_pCube27
+    4300296: Lights_pCube28
+    4300298: Lights_pCube29
+    4300300: Lights_pCube30
+    4300302: Lights_pCube31
+    4300304: Lights_pCube32
+    4300306: Lights_pCube33
+    4300308: Lights_pCube34
+    4300310: Lights_pCube35
+    4300312: Lights_pCube36
+    4300314: Lights_pCube37
+    4300316: Lights_pCube38
+    4300318: Lights_pCube39
+    4300320: Lights_pCube40
+    4300322: Lights_pCube41
+    4300324: Lights_pCube42
+    4300326: Lights_pCylinder2
+    4300328: Lights_pCylinder4
+    4300330: Lights_pCylinder3
+    4300332: Lights_pCylinder4
+    4300334: Lights_pCylinder3
+    4300336: Lights_LightCasing1
+    4300338: Lights_pCube1
+    4300340: Lights_pCube2
+    4300342: Lights_pCube3
+    4300344: Lights_pCube4
+    4300346: Lights_pCube5
+    4300348: Lights_pCube6
+    4300350: Lights_pCube7
+    4300352: Lights_pCube8
+    4300354: Lights_pCube9
+    4300356: Lights_pCube10
+    4300358: Lights_pCube11
+    4300360: Lights_pCube12
+    4300362: Lights_pCube13
+    4300364: Lights_pCube14
+    4300366: Lights_pCube15
+    4300368: Lights_pCube16
+    4300370: Lights_pCube17
+    4300372: Lights_pCube18
+    4300374: Lights_pCube19
+    4300376: Lights_pCube20
+    4300378: Lights_pCube21
+    4300380: Lights_pCube22
+    4300382: Lights_pCube23
+    4300384: Lights_pCube24
+    4300386: Lights_pCube25
+    4300388: Lights_pCube26
+    4300390: Lights_pCube27
+    4300392: Lights_pCube28
+    4300394: Lights_pCube29
+    4300396: Lights_pCube30
+    4300398: Lights_pCube31
+    4300400: Lights_pCube32
+    4300402: Lights_pCube33
+    4300404: Lights_pCube34
+    4300406: Lights_pCube35
+    4300408: Lights_pCube36
+    4300410: Lights_pCube37
+    4300412: Lights_pCube38
+    4300414: Lights_pCube39
+    4300416: Lights_pCube40
+    4300418: Lights_pCube41
+    4300420: Lights_pCube42
+    4300422: Lights_pCylinder2
+    4300424: Lights_pCylinder4
+    4300426: Lights_pCylinder3
+    4300428: Lights_pCylinder4
+    4300430: Lights_pCylinder3
+    4300432: Lights_LightCasing1
+    4300434: Lights_pCube1
+    4300436: Lights_pCube2
+    4300438: Lights_pCube3
+    4300440: Lights_pCube4
+    4300442: Lights_pCube5
+    4300444: Lights_pCube6
+    4300446: Lights_pCube7
+    4300448: Lights_pCube8
+    4300450: Lights_pCube9
+    4300452: Lights_pCube10
+    4300454: Lights_pCube11
+    4300456: Lights_pCube12
+    4300458: Lights_pCube13
+    4300460: Lights_pCube14
+    4300462: Lights_pCube15
+    4300464: Lights_pCube16
+    4300466: Lights_pCube17
+    4300468: Lights_pCube18
+    4300470: Lights_pCube19
+    4300472: Lights_pCube20
+    4300474: Lights_pCube21
+    4300476: Lights_pCube22
+    4300478: Lights_pCube23
+    4300480: Lights_pCube24
+    4300482: Lights_pCube25
+    4300484: Lights_pCube26
+    4300486: Lights_pCube27
+    4300488: Lights_pCube28
+    4300490: Lights_pCube29
+    4300492: Lights_pCube30
+    4300494: Lights_pCube31
+    4300496: Lights_pCube32
+    4300498: Lights_pCube33
+    4300500: Lights_pCube34
+    4300502: Lights_pCube35
+    4300504: Lights_pCube36
+    4300506: Lights_pCube37
+    4300508: Lights_pCube38
+    4300510: Lights_pCube39
+    4300512: Lights_pCube40
+    4300514: Lights_pCube41
+    4300516: Lights_pCube42
+    4300518: Lights_pCylinder2
+    4300520: Lights_pCylinder4
+    4300522: Lights_pCylinder3
+    4300524: Lights_pCylinder4
+    4300526: Lights_pCylinder3
+    4300528: Lights_LightCasing1
+    4300530: Lights_pCube1
+    4300532: Lights_pCube2
+    4300534: Lights_pCube3
+    4300536: Lights_pCube4
+    4300538: Lights_pCube5
+    4300540: Lights_pCube6
+    4300542: Lights_pCube7
+    4300544: Lights_pCube8
+    4300546: Lights_pCube9
+    4300548: Lights_pCube10
+    4300550: Lights_pCube11
+    4300552: Lights_pCube12
+    4300554: Lights_pCube13
+    4300556: Lights_pCube14
+    4300558: Lights_pCube15
+    4300560: Lights_pCube16
+    4300562: Lights_pCube17
+    4300564: Lights_pCube18
+    4300566: Lights_pCube19
+    4300568: Lights_pCube20
+    4300570: Lights_pCube21
+    4300572: Lights_pCube22
+    4300574: Lights_pCube23
+    4300576: Lights_pCube24
+    4300578: Lights_pCube25
+    4300580: Lights_pCube26
+    4300582: Lights_pCube27
+    4300584: Lights_pCube28
+    4300586: Lights_pCube29
+    4300588: Lights_pCube30
+    4300590: Lights_pCube31
+    4300592: Lights_pCube32
+    4300594: Lights_pCube33
+    4300596: Lights_pCube34
+    4300598: Lights_pCube35
+    4300600: Lights_pCube36
+    4300602: Lights_pCube37
+    4300604: Lights_pCube38
+    4300606: Lights_pCube39
+    4300608: Lights_pCube40
+    4300610: Lights_pCube41
+    4300612: Lights_pCube42
+    4300614: Lights_pCylinder2
+    4300616: Lights_pCylinder4
+    4300618: Lights_pCylinder3
+    4300620: Lights_pCylinder4
+    4300622: Lights_pCylinder3
+    4300624: Lights_LightCasing1
+    4300626: Lights_pCube1
+    4300628: Lights_pCube2
+    4300630: Lights_pCube3
+    4300632: Lights_pCube4
+    4300634: Lights_pCube5
+    4300636: Lights_pCube6
+    4300638: Lights_pCube7
+    4300640: Lights_pCube8
+    4300642: Lights_pCube9
+    4300644: Lights_pCube10
+    4300646: Lights_pCube11
+    4300648: Lights_pCube12
+    4300650: Lights_pCube13
+    4300652: Lights_pCube14
+    4300654: Lights_pCube15
+    4300656: Lights_pCube16
+    4300658: Lights_pCube17
+    4300660: Lights_pCube18
+    4300662: Lights_pCube19
+    4300664: Lights_pCube20
+    4300666: Lights_pCube21
+    4300668: Lights_pCube22
+    4300670: Lights_pCube23
+    4300672: Lights_pCube24
+    4300674: Lights_pCube25
+    4300676: Lights_pCube26
+    4300678: Lights_pCube27
+    4300680: Lights_pCube28
+    4300682: Lights_pCube29
+    4300684: Lights_pCube30
+    4300686: Lights_pCube31
+    4300688: Lights_pCube32
+    4300690: Lights_pCube33
+    4300692: Lights_pCube34
+    4300694: Lights_pCube35
+    4300696: Lights_pCube36
+    4300698: Lights_pCube37
+    4300700: Lights_pCube38
+    4300702: Lights_pCube39
+    4300704: Lights_pCube40
+    4300706: Lights_pCube41
+    4300708: Lights_pCube42
+    4300710: Lights_pCylinder2
+    4300712: Lights_pCylinder4
+    4300714: Lights_pCylinder3
+    4300716: Lights_pCylinder4
+    4300718: Lights_pCylinder3
+    4300720: Lights_LightCasing1
+    4300722: Lights_pCube1
+    4300724: Lights_pCube2
+    4300726: Lights_pCube3
+    4300728: Lights_pCube4
+    4300730: Lights_pCube5
+    4300732: Lights_pCube6
+    4300734: Lights_pCube7
+    4300736: Lights_pCube8
+    4300738: Lights_pCube9
+    4300740: Lights_pCube10
+    4300742: Lights_pCube11
+    4300744: Lights_pCube12
+    4300746: Lights_pCube13
+    4300748: Lights_pCube14
+    4300750: Lights_pCube15
+    4300752: Lights_pCube16
+    4300754: Lights_pCube17
+    4300756: Lights_pCube18
+    4300758: Lights_pCube19
+    4300760: Lights_pCube20
+    4300762: Lights_pCube21
+    4300764: Lights_pCube22
+    4300766: Lights_pCube23
+    4300768: Lights_pCube24
+    4300770: Lights_pCube25
+    4300772: Lights_pCube26
+    4300774: Lights_pCube27
+    4300776: Lights_pCube28
+    4300778: Lights_pCube29
+    4300780: Lights_pCube30
+    4300782: Lights_pCube31
+    4300784: Lights_pCube32
+    4300786: Lights_pCube33
+    4300788: Lights_pCube34
+    4300790: Lights_pCube35
+    4300792: Lights_pCube36
+    4300794: Lights_pCube37
+    4300796: Lights_pCube38
+    4300798: Lights_pCube39
+    4300800: Lights_pCube40
+    4300802: Lights_pCube41
+    4300804: Lights_pCube42
+    4300806: Lights_pCylinder2
+    4300808: Lights_pCylinder4
+    4300810: Lights_pCylinder3
+    4300812: Lights_pCylinder4
+    4300814: Lights_pCylinder3
+    4300816: Pipe
+    4300818: MetalCeiling
+    4300820: SouthWallSupport
+    4300822: SprinklerPipeHanger3
+    4300824: SprinklerPipeHanger2
+    4300826: SprinklerPipeHanger1
+    4300828: SprinklerPipe1
+    4300830: SprinklerPipeHanger3
+    4300832: SprinklerPipeHanger2
+    4300834: SprinklerPipeHanger1
+    4300836: SprinklerPipe2
+    4300838: WaterTee
+    4300840: MainWaterPipe
+    4300842: WaterTee1
+    4300844: WaterTee2
+    4300846: PipeHanger1
+    4300848: PipeHanger2
+    4300850: PipeHanger3
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

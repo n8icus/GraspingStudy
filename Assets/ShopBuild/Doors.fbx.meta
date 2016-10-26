@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 7a5ce4c3caae4b7409c4f5428ef8e6a0
+timeCreated: 1466189009
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AutoDoor
+    100002: AutoDoor 1
+    100004: AutoDoor 2
+    100006: AutoDoor 3
+    100008: AutoDoorA
+    100010: AutoDoorB
+    100012: AutoDoorFrame
+    100014: AutoDoorFrame 1
+    100016: AutoDoorLock
+    100018: AutoDoorLock 1
+    100020: AutoDoorScannerInside
+    100022: AutoDoorScannerInside 1
+    100024: AutoDoorScannerOutside
+    100026: AutoDoorScannerOutside 1
+    100028: AutoDoorSliding
+    100030: AutoDoorSliding 1
+    100032: AutoDoorStatic
+    100034: AutoDoorStatic 1
+    100036: BottomWindow
+    100038: BottomWindow 1
+    100040: BottomWindow 2
+    100042: BottomWindow 3
+    100044: Door
+    100046: Door 1
+    100048: //RootNode
+    100050: DoorsGroup
+    100052: EmployeeDoorLarge
+    100054: EmployeeDoors
+    100056: EmployeeDoorSmall
+    100058: EmployeesOnlySign
+    100060: Handle
+    100062: HandlePlate
+    100064: HandlePlate 1
+    100066: HingeA
+    100068: HingeB
+    100070: HingeC
+    100072: Lock
+    100074: pCylinder3
+    100076: pCylinder3 1
+    100078: pCylinder4
+    100080: pCylinder4 1
+    100082: RightHandle
+    100084: TopWindow
+    100086: TopWindow 1
+    100088: TopWindow 2
+    100090: TopWindow 3
+    400000: AutoDoor
+    400002: AutoDoor 1
+    400004: AutoDoor 2
+    400006: AutoDoor 3
+    400008: AutoDoorA
+    400010: AutoDoorB
+    400012: AutoDoorFrame
+    400014: AutoDoorFrame 1
+    400016: AutoDoorLock
+    400018: AutoDoorLock 1
+    400020: AutoDoorScannerInside
+    400022: AutoDoorScannerInside 1
+    400024: AutoDoorScannerOutside
+    400026: AutoDoorScannerOutside 1
+    400028: AutoDoorSliding
+    400030: AutoDoorSliding 1
+    400032: AutoDoorStatic
+    400034: AutoDoorStatic 1
+    400036: BottomWindow
+    400038: BottomWindow 1
+    400040: BottomWindow 2
+    400042: BottomWindow 3
+    400044: Door
+    400046: Door 1
+    400048: //RootNode
+    400050: DoorsGroup
+    400052: EmployeeDoorLarge
+    400054: EmployeeDoors
+    400056: EmployeeDoorSmall
+    400058: EmployeesOnlySign
+    400060: Handle
+    400062: HandlePlate
+    400064: HandlePlate 1
+    400066: HingeA
+    400068: HingeB
+    400070: HingeC
+    400072: Lock
+    400074: pCylinder3
+    400076: pCylinder3 1
+    400078: pCylinder4
+    400080: pCylinder4 1
+    400082: RightHandle
+    400084: TopWindow
+    400086: TopWindow 1
+    400088: TopWindow 2
+    400090: TopWindow 3
+    2300000: AutoDoor
+    2300002: AutoDoor 1
+    2300004: AutoDoor 2
+    2300006: AutoDoor 3
+    2300008: AutoDoorFrame
+    2300010: AutoDoorFrame 1
+    2300012: AutoDoorScannerInside
+    2300014: AutoDoorScannerInside 1
+    2300016: AutoDoorScannerOutside
+    2300018: AutoDoorScannerOutside 1
+    2300020: BottomWindow
+    2300022: BottomWindow 1
+    2300024: BottomWindow 2
+    2300026: BottomWindow 3
+    2300028: Door
+    2300030: Door 1
+    2300032: EmployeesOnlySign
+    2300034: Handle
+    2300036: HandlePlate
+    2300038: HandlePlate 1
+    2300040: HingeA
+    2300042: HingeB
+    2300044: HingeC
+    2300046: Lock
+    2300048: pCylinder3
+    2300050: pCylinder3 1
+    2300052: pCylinder4
+    2300054: pCylinder4 1
+    2300056: RightHandle
+    2300058: TopWindow
+    2300060: TopWindow 1
+    2300062: TopWindow 2
+    2300064: TopWindow 3
+    3300000: AutoDoor
+    3300002: AutoDoor 1
+    3300004: AutoDoor 2
+    3300006: AutoDoor 3
+    3300008: AutoDoorFrame
+    3300010: AutoDoorFrame 1
+    3300012: AutoDoorScannerInside
+    3300014: AutoDoorScannerInside 1
+    3300016: AutoDoorScannerOutside
+    3300018: AutoDoorScannerOutside 1
+    3300020: BottomWindow
+    3300022: BottomWindow 1
+    3300024: BottomWindow 2
+    3300026: BottomWindow 3
+    3300028: Door
+    3300030: Door 1
+    3300032: EmployeesOnlySign
+    3300034: Handle
+    3300036: HandlePlate
+    3300038: HandlePlate 1
+    3300040: HingeA
+    3300042: HingeB
+    3300044: HingeC
+    3300046: Lock
+    3300048: pCylinder3
+    3300050: pCylinder3 1
+    3300052: pCylinder4
+    3300054: pCylinder4 1
+    3300056: RightHandle
+    3300058: TopWindow
+    3300060: TopWindow 1
+    3300062: TopWindow 2
+    3300064: TopWindow 3
+    4300000: AutoDoorFrame
+    4300002: AutoDoor
+    4300004: TopWindow
+    4300006: BottomWindow
+    4300008: pCylinder4
+    4300010: pCylinder3
+    4300012: AutoDoor
+    4300014: TopWindow
+    4300016: BottomWindow
+    4300018: AutoDoorScannerInside
+    4300020: AutoDoorScannerOutside
+    4300022: AutoDoorFrame
+    4300024: AutoDoor
+    4300026: TopWindow
+    4300028: BottomWindow
+    4300030: pCylinder4
+    4300032: pCylinder3
+    4300034: AutoDoor
+    4300036: TopWindow
+    4300038: BottomWindow
+    4300040: AutoDoorScannerInside
+    4300042: AutoDoorScannerOutside
+    4300044: HingeA
+    4300046: HingeB
+    4300048: HingeC
+    4300050: Door
+    4300052: Handle
+    4300054: HandlePlate
+    4300056: Lock
+    4300058: HandlePlate
+    4300060: Door
+    4300062: EmployeesOnlySign
+    4300064: RightHandle
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

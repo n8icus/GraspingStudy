@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: ffb1052ce1828b4428acabfa3a896a5f
+timeCreated: 1466189035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BrickWall
+    100002: CUShopSign
+    100004: CUShopSign_C
+    100006: CUShopSign_h
+    100008: CUShopSign_o
+    100010: CUShopSign_p
+    100012: CUShopSign_s
+    100014: CUShopSign_U
+    100016: DoorTrim
+    100018: FruitArt
+    100020: FruitPoster1
+    100022: FruitPoster2
+    100024: FruitPoster3
+    100026: GrayWall1
+    100028: GreenWall
+    100030: LightSwitch
+    100032: MirrorGroup
+    100034: MirrorTrim
+    100036: OutletsGroup
+    100038: pCube8
+    100040: pCube9
+    100042: SquareDSwitch1
+    100044: SquareDSwitch2
+    100046: SquareDSwitch3
+    100048: SquareDSwitchCasing
+    100050: SquareDSwitchCasing 1
+    100052: SquareDSwitchCasing 2
+    100054: SquareDSwitchesGroup
+    100056: SquareDSwitchHandleBlack
+    100058: SquareDSwitchHandleBlack 1
+    100060: SquareDSwitchHandleBlack 2
+    100062: SquareDSwitchHandleCover
+    100064: SquareDSwitchHandleCover 1
+    100066: SquareDSwitchHandleCover 2
+    100068: SquareDSwitchHandleRed
+    100070: SquareDSwitchHandleRed 1
+    100072: SquareDSwitchHandleRed 2
+    100074: SwitchCover1
+    100076: SwtichCover2
+    100078: SwtichCover3
+    100080: SwtichCover5
+    100082: SwtichCover6
+    100084: SwtichCover7
+    100086: SwtichCover8
+    100088: SwtichCover9
+    100090: Thermostat
+    100092: ThermostatBody
+    100094: ThermostatDial
+    100096: TwoWayMirror
+    100098: //RootNode
+    100100: WallsGroup
+    100102: WestWallVent
+    400000: BrickWall
+    400002: CUShopSign
+    400004: CUShopSign_C
+    400006: CUShopSign_h
+    400008: CUShopSign_o
+    400010: CUShopSign_p
+    400012: CUShopSign_s
+    400014: CUShopSign_U
+    400016: DoorTrim
+    400018: FruitArt
+    400020: FruitPoster1
+    400022: FruitPoster2
+    400024: FruitPoster3
+    400026: GrayWall1
+    400028: GreenWall
+    400030: LightSwitch
+    400032: MirrorGroup
+    400034: MirrorTrim
+    400036: OutletsGroup
+    400038: pCube8
+    400040: pCube9
+    400042: SquareDSwitch1
+    400044: SquareDSwitch2
+    400046: SquareDSwitch3
+    400048: SquareDSwitchCasing
+    400050: SquareDSwitchCasing 1
+    400052: SquareDSwitchCasing 2
+    400054: SquareDSwitchesGroup
+    400056: SquareDSwitchHandleBlack
+    400058: SquareDSwitchHandleBlack 1
+    400060: SquareDSwitchHandleBlack 2
+    400062: SquareDSwitchHandleCover
+    400064: SquareDSwitchHandleCover 1
+    400066: SquareDSwitchHandleCover 2
+    400068: SquareDSwitchHandleRed
+    400070: SquareDSwitchHandleRed 1
+    400072: SquareDSwitchHandleRed 2
+    400074: SwitchCover1
+    400076: SwtichCover2
+    400078: SwtichCover3
+    400080: SwtichCover5
+    400082: SwtichCover6
+    400084: SwtichCover7
+    400086: SwtichCover8
+    400088: SwtichCover9
+    400090: Thermostat
+    400092: ThermostatBody
+    400094: ThermostatDial
+    400096: TwoWayMirror
+    400098: //RootNode
+    400100: WallsGroup
+    400102: WestWallVent
+    2300000: BrickWall
+    2300002: CUShopSign_C
+    2300004: CUShopSign_h
+    2300006: CUShopSign_o
+    2300008: CUShopSign_p
+    2300010: CUShopSign_s
+    2300012: CUShopSign_U
+    2300014: DoorTrim
+    2300016: FruitPoster1
+    2300018: FruitPoster2
+    2300020: FruitPoster3
+    2300022: GrayWall1
+    2300024: GreenWall
+    2300026: MirrorTrim
+    2300028: pCube8
+    2300030: pCube9
+    2300032: SquareDSwitchCasing
+    2300034: SquareDSwitchCasing 1
+    2300036: SquareDSwitchCasing 2
+    2300038: SquareDSwitchHandleBlack
+    2300040: SquareDSwitchHandleBlack 1
+    2300042: SquareDSwitchHandleBlack 2
+    2300044: SquareDSwitchHandleCover
+    2300046: SquareDSwitchHandleCover 1
+    2300048: SquareDSwitchHandleCover 2
+    2300050: SquareDSwitchHandleRed
+    2300052: SquareDSwitchHandleRed 1
+    2300054: SquareDSwitchHandleRed 2
+    2300056: SwitchCover1
+    2300058: SwtichCover2
+    2300060: SwtichCover3
+    2300062: SwtichCover5
+    2300064: SwtichCover6
+    2300066: SwtichCover7
+    2300068: SwtichCover8
+    2300070: SwtichCover9
+    2300072: ThermostatBody
+    2300074: ThermostatDial
+    2300076: TwoWayMirror
+    2300078: WestWallVent
+    3300000: BrickWall
+    3300002: CUShopSign_C
+    3300004: CUShopSign_h
+    3300006: CUShopSign_o
+    3300008: CUShopSign_p
+    3300010: CUShopSign_s
+    3300012: CUShopSign_U
+    3300014: DoorTrim
+    3300016: FruitPoster1
+    3300018: FruitPoster2
+    3300020: FruitPoster3
+    3300022: GrayWall1
+    3300024: GreenWall
+    3300026: MirrorTrim
+    3300028: pCube8
+    3300030: pCube9
+    3300032: SquareDSwitchCasing
+    3300034: SquareDSwitchCasing 1
+    3300036: SquareDSwitchCasing 2
+    3300038: SquareDSwitchHandleBlack
+    3300040: SquareDSwitchHandleBlack 1
+    3300042: SquareDSwitchHandleBlack 2
+    3300044: SquareDSwitchHandleCover
+    3300046: SquareDSwitchHandleCover 1
+    3300048: SquareDSwitchHandleCover 2
+    3300050: SquareDSwitchHandleRed
+    3300052: SquareDSwitchHandleRed 1
+    3300054: SquareDSwitchHandleRed 2
+    3300056: SwitchCover1
+    3300058: SwtichCover2
+    3300060: SwtichCover3
+    3300062: SwtichCover5
+    3300064: SwtichCover6
+    3300066: SwtichCover7
+    3300068: SwtichCover8
+    3300070: SwtichCover9
+    3300072: ThermostatBody
+    3300074: ThermostatDial
+    3300076: TwoWayMirror
+    3300078: WestWallVent
+    4300000: GreenWall
+    4300002: MirrorTrim
+    4300004: TwoWayMirror
+    4300006: DoorTrim
+    4300008: BrickWall
+    4300010: WestWallVent
+    4300012: SwitchCover1
+    4300014: SwtichCover2
+    4300016: ThermostatDial
+    4300018: ThermostatBody
+    4300020: SwtichCover3
+    4300022: SwtichCover5
+    4300024: SwtichCover6
+    4300026: SwtichCover7
+    4300028: SwtichCover8
+    4300030: pCube8
+    4300032: SwtichCover9
+    4300034: pCube9
+    4300036: CUShopSign_C
+    4300038: CUShopSign_U
+    4300040: CUShopSign_s
+    4300042: CUShopSign_h
+    4300044: CUShopSign_o
+    4300046: CUShopSign_p
+    4300048: SquareDSwitchCasing
+    4300050: SquareDSwitchHandleCover
+    4300052: SquareDSwitchHandleRed
+    4300054: SquareDSwitchHandleBlack
+    4300056: SquareDSwitchCasing
+    4300058: SquareDSwitchHandleCover
+    4300060: SquareDSwitchHandleRed
+    4300062: SquareDSwitchHandleBlack
+    4300064: SquareDSwitchCasing
+    4300066: SquareDSwitchHandleCover
+    4300068: SquareDSwitchHandleRed
+    4300070: SquareDSwitchHandleBlack
+    4300072: FruitPoster3
+    4300074: FruitPoster2
+    4300076: FruitPoster1
+    4300078: GrayWall1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

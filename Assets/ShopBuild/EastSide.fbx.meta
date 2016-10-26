@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: fe55f07e36ddfc94f816d8e35838a078
+timeCreated: 1466189028
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Columns
+    100002: //RootNode
+    100004: EastSideGroup
+    100006: GreenBacking
+    100008: MetalCounterShields
+    100010: MLColumn
+    100012: MLColumn1
+    100014: MLColumn2
+    100016: Shelf
+    100018: WindowBack1
+    100020: WindowBack2
+    100022: WindowBack3
+    100024: Windows
+    100026: WindowShade1
+    100028: WindowShade2
+    100030: WindowShade3
+    100032: WindowSill
+    100034: WindowWall
+    400000: Columns
+    400002: //RootNode
+    400004: EastSideGroup
+    400006: GreenBacking
+    400008: MetalCounterShields
+    400010: MLColumn
+    400012: MLColumn1
+    400014: MLColumn2
+    400016: Shelf
+    400018: WindowBack1
+    400020: WindowBack2
+    400022: WindowBack3
+    400024: Windows
+    400026: WindowShade1
+    400028: WindowShade2
+    400030: WindowShade3
+    400032: WindowSill
+    400034: WindowWall
+    2300000: GreenBacking
+    2300002: MetalCounterShields
+    2300004: MLColumn
+    2300006: MLColumn1
+    2300008: MLColumn2
+    2300010: WindowBack1
+    2300012: WindowBack2
+    2300014: WindowBack3
+    2300016: WindowShade1
+    2300018: WindowShade2
+    2300020: WindowShade3
+    2300022: WindowSill
+    2300024: WindowWall
+    3300000: GreenBacking
+    3300002: MetalCounterShields
+    3300004: MLColumn
+    3300006: MLColumn1
+    3300008: MLColumn2
+    3300010: WindowBack1
+    3300012: WindowBack2
+    3300014: WindowBack3
+    3300016: WindowShade1
+    3300018: WindowShade2
+    3300020: WindowShade3
+    3300022: WindowSill
+    3300024: WindowWall
+    4300000: WindowWall
+    4300002: WindowShade1
+    4300004: WindowShade2
+    4300006: WindowShade3
+    4300008: WindowBack3
+    4300010: WindowBack2
+    4300012: WindowBack1
+    4300014: MLColumn1
+    4300016: MLColumn2
+    4300018: MLColumn
+    4300020: GreenBacking
+    4300022: MetalCounterShields
+    4300024: WindowSill
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
